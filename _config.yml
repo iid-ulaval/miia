@@ -4,13 +4,11 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - CONTRIBUTING.md
   - README.md
   - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
 
 theme: jekyll-theme-tactile
+title: "Service de Consultation en IA et données"
+description: "Service de consultation en intelligence artificielle et données de l'Institut Intelligence et données de l'université Laval. Réservé aux membres pour le moment."
+show_downloads: false
