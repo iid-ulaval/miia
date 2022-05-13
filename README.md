@@ -1,4 +1,4 @@
-# Service de Consulatation en IA et Données de l'IID
+# Service de Consultation en IA et Données de l'IID
 
 ## Introduction
 
