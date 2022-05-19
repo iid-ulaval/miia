@@ -67,7 +67,6 @@ a:hover {
 
 header {
   padding-top: 35px;
-  padding-bottom: 25px;
   background-color: #f283ac;
 }
 
@@ -108,11 +107,11 @@ header ul {
   background-color: #52bf9e;
 }
 
-header li {
+header ul li {
   float: left;
 }
 
-header li a {
+header ul li a {
   display: block;
   color: #181949;
   text-align: center;
@@ -120,12 +119,10 @@ header li a {
   text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
-header li a:hover {
+header ul li a:hover {
   background-color: #f47a4b;
+  color: #181949;
 }
-
-
 
 #container {
   min-height: 595px;
