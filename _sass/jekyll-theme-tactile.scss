@@ -60,10 +60,10 @@ body {
 }
 
 a {
-  color: #ed1c24;
+  color: #1a1f43;
 }
 a:hover {
-  color: #1a1f43;
+  color: #ed1c24;
 }
 
 header {
@@ -75,8 +75,9 @@ header h1 {
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 48px; font-weight: 900;
   line-height: 1.2;
-  color: #303030;
+  color: #231f20;
   letter-spacing: -1px;
+  text-align: center;
 }
 
 header h2 {
@@ -89,7 +90,7 @@ header h2 {
 
 #container {
   min-height: 595px;
-  background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
+  background: transparent url(../assets/img/iid-bleu.svg) 50% 0 no-repeat;
 }
 
 .inner {
@@ -114,7 +115,7 @@ a.button {
   font-size: 15px;
   font-weight: bold;
   line-height: 25px;
-  color: #303030;
+  color: #231f20;
   background: #fdfdfd; /* Old browsers */
   background: -moz-linear-gradient(top,  #fdfdfd 0%, #f2f2f2 100%); /* FF3.6+ */
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fdfdfd), color-stop(100%,#f2f2f2)); /* Chrome,Safari4+ */
@@ -186,12 +187,12 @@ pre {
   overflow: auto;
   color: #f2f2f2;
   text-shadow: none;
-  background: #303030;
+  background: #231f20;
 }
 pre code {
   padding: 0;
   color: #f2f2f2;
-  background-color: #303030;
+  background-color: #231f20;
   border: none;
 }
 
@@ -251,30 +252,30 @@ h2 {
   margin-bottom: 8px;
   font-size: 22px;
   font-weight: bold;
-  color: #303030;
+  color: #181949;
 }
 
 h3 {
   margin-bottom: 8px;
   font-size: 18px;
   font-weight: bold;
-  color: #d5000d;
+  color: #825fa8;
 }
 
 h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #303030;
+  color: #231f20;
 }
 
 h5 {
   font-size: 1em;
-  color: #303030;
+  color: #231f20;
 }
 
 h6 {
   font-size: .8em;
-  color: #303030;
+  color: #231f20;
 }
 
 p {
@@ -310,7 +311,7 @@ ol li {
 }
 
 dl dt {
-  color: #303030;
+  color: #231f20;
 }
 
 footer {
