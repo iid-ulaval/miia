@@ -1,14 +1,14 @@
-# Service à la Communauté Externe
+## Service à la Communauté Externe
 
-## Intro
+### Intro
 
 Pour tester la page 
 
-## Les étapes 
+### Les étapes 
 
 1. Allez voir le PARI-CNRC
 
 
-## Prix
+### Prix
 
 Impossible !

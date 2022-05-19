@@ -1,10 +1,10 @@
-# Service à la Communauté ULaval
+## Service à la Communauté ULaval
 
-## Intro
+### Intro
 
 Pour tester la page 
 
-## Les étapes 
+### Les étapes 
 
 1. Contact
 2. RdV
@@ -12,6 +12,6 @@ Pour tester la page
 4. Résolution
 
 
-## Prix
+### Prix
 
 Gratuit !
