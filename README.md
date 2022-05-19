@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Bienvenue sur le site du Service de consultation en intelligence et données (SCID) de l'Université Laval.  Le SCSI met à la disposition de la communauté scientifique les connaissances et l'expertise des professionnels de recherche de l’[Institut Intelligence et Données (IID)](https://iid.ulaval.ca).
+Bienvenue sur le site du Service de consultation en intelligence et données (SCID) de l'Université Laval.  Le SCID met à la disposition de la communauté scientifique les connaissances et l'expertise des professionnels de recherche de l’[Institut Intelligence et Données (IID)](https://iid.ulaval.ca).
 
 Nous offrons nos services aux chercheurs membres ou collaborateurs de l'IID (et leurs étudiants) afin de les aider à choisir et utiliser correctement les méthodes et outils de modélisation de données appropriés, revoir le code développé, interpréter et présenter les résultats de ces méthodes et outils, participer à l'implantation et à la mise en oeuvre de nouvelles méthodes d'apprentissage automatique ou encore pour effectuer l'analyse de données expérimentales non structurées.
 
