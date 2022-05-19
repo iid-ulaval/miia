@@ -105,10 +105,13 @@ header ul {
   padding: 0;
   overflow: hidden;
   background-color: #52bf9e;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
 }
 
 header ul li {
   float: left;
+  list-style: none;
 }
 
 header ul li a {
