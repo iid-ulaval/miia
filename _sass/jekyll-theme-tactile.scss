@@ -55,7 +55,6 @@ body {
   font-size: 1em;
   line-height: 1.5;
   color: #6d6d6d;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   background: #e7e7e7;
 }
 
@@ -75,7 +74,7 @@ header {
 header img {
   float: left;
   height: 100px;
-  margin: 10px
+  margin-left: 10px
 }
 
 header h1 {
@@ -100,6 +99,33 @@ header h2 {
   margin: 25px;
 
 }
+
+header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #52bf9e;
+}
+
+header li {
+  float: left;
+}
+
+header li a {
+  display: block;
+  color: #181949;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+header li a:hover {
+  background-color: #f47a4b;
+}
+
+
 
 #container {
   min-height: 595px;

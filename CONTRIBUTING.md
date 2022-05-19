@@ -1,12 +1,12 @@
 # Contributing to this project
 
-* [Contributors Agreement](#user-content-contributors-agreement)
+* [Contributors Agreement](#contributors-agreement)
 * [Introduction](#Introduction)
-  * [I don't want to read this whole thing I just have a question!!!](#user-content-i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
-* [How Can I Contribute?](#user-content-how-can-i-contribute)
-  * [Reporting Bugs](#user-content-reporting-bugs)
-  * [Suggesting Enhancements](#user-content-suggesting-enhancements)
-  * [Creating Pull Requests](#user-content-creating-pull-requests)
+  * [I don't want to read this whole thing I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
+* [How Can I Contribute?](#how-can-i-contribute)
+  * [Reporting Bugs](#reporting-bugs)
+  * [Suggesting Enhancements](#suggesting-enhancements)
+  * [Creating Pull Requests](#creating-pull-requests)
   
 ## Contributors Agreement
 

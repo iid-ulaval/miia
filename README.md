@@ -14,7 +14,7 @@ Consultez les différentes sections ci dessous afin d'obtenir la description com
 
 ### Service réservé aux membres et collaborateurs IID (pour le moment)
 
-Si vous êtes un membre de la commununauté de l'[Université Laval](https://www.ulaval.ca) mais que vous n'êtes pas encore membre ou collaborateur de l'[Institut Intelligence et Données](https://iid.ulaval.ca), nous sommes présentement en train de développer les processus et méthodes pour répondre au mieux à vos besoins. Nous ferons une communication publique lorsque le service sera plus largement ouvert.
+Si vous êtes un membre de la commununauté de l'[Université Laval](https://www.ulaval.ca) mais que vous n'êtes pas encore membre ou collaborateur de l'[Institut Intelligence et Données](https://iid.ulaval.ca) (ou un de leurs étudiants), nous sommes présentement en train de développer les processus et méthodes pour répondre au mieux à vos besoins. Nous ferons une communication publique lorsque le service sera plus largement ouvert.
 
 Si vous êtes un professionnel et que vous avez besoin d'aide dans l'élaboration de vos projets, plusieurs ressources s'offrent déjà à vous : 
 * Le [PARI-CNRC](https://nrc.canada.ca/fr/soutien-linnovation-technologique) offre du soutien à l'innovation technologique qui pourrait vous permettre d'accéder à nos services. Veuillez prendre contact avec l'agent PARI-CNRC de votre région. 
