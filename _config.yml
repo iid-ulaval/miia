@@ -9,6 +9,8 @@ include:
   - CONTRIBUTING.md
 
 theme: jekyll-theme-tactile
-title: "Service de Consultation en IA et données"
-description: "Service de consultation en intelligence artificielle et données de l'Institut Intelligence et données de l'université Laval. Réservé aux membres pour le moment."
 show_downloads: false
+
+defaults: 
+  - title: "Service de Consultation en IA et données"
+  - description: "Service de consultation en intelligence artificielle et données de l'Institut Intelligence et Données de l'université Laval. Réservé aux membres pour le moment."
