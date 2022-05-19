@@ -107,6 +107,8 @@ nav ul {
   background-color: #52bf9e;
   position: -webkit-sticky; /* Safari */
   position: sticky;
+  display: flex;
+  justify-content: center;
 }
 
 nav ul li {
@@ -349,7 +351,6 @@ footer {
   margin-top: 40px;
   font-size: 13px;
   color: #aaa;
-  background: transparent url('../images/hr.png') 0 0 no-repeat;
 }
 
 footer a {
