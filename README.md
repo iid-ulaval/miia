@@ -28,5 +28,7 @@ Quelque soit votre provenance, il est également toujours possible de se former:
 
 Si vous êtes un chercheur de la communauté IID (membre ou collaborateur) ou un étudiant d'[un de ces chercheurs](https://iid.ulaval.ca/expertises/) et que vous avez un besoin auquel on peut répondre selon notre [offre de services](./pages/ulaval.md), vous trouverez sur cette page les différentes étapes du processus de consultation.
 
-<div style="text-align:center;">[Faire une demande de consultation](./pages/ulaval.md)<div>
+<h4 style="text-align:center;">
+    <a href="{{ '/pages/ulaval.html' | relative_url }}">Faire une demande de consultation</a>
+<h4>
 
