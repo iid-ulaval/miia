@@ -30,15 +30,3 @@ Si vous êtes un chercheur de la communauté IID (membre ou collaborateur) ou un
 
 #### [Faire une demande de consultation](./pages/ulaval.md)
 
-
-
-
-
-
-#### Pour contribuer à ce site
-
-Allez voir le [Guide de Contribution (en anglais pour le moment)](./CONTRIBUTING.md).
-
-#### Licence
-
-[Licence MIT](./LICENSE.md).

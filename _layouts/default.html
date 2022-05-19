@@ -16,8 +16,8 @@
   <body>
     <div id="container">
       <div class="inner">
-
         <header>
+          <img src="../assets/img/iid-bleu.svg" alt="Logo de l'Institut Intelligence et Données" />
           <h1>Service de Consultation en IA et données</h1>
           <h2>Service de consultation en intelligence artificielle et données de l'Institut Intelligence et Données de l'université Laval. Réservé aux membres pour le moment.</h2>
         </header>
@@ -27,10 +27,9 @@
         </section>
 
         <footer>
-        {% if site.github.is_project_page %}
+          Pour contribuer au développement de ces pages, voir le <a href="CONTRIBUTING.html">guide</a>.<br>
           {{ site.title | default: site.github.repository_name }} est maintenu par <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
-        {% endif %}
-          Cette page est générée par les <a href="https://pages.github.com">Pages GitHub</a>.
+          Cette page est générée par les <a href="https://pages.github.com">Pages GitHub</a>. Sous licence <a href="LICENSE.html">MIT</a>.
         </footer>
 
       </div>
