@@ -99,7 +99,7 @@ header h2 {
 
 }
 
-header ul {
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -109,12 +109,12 @@ header ul {
   position: sticky;
 }
 
-header ul li {
+nav ul li {
   float: left;
   list-style: none;
 }
 
-header ul li a {
+nav ul li a {
   display: block;
   color: #181949;
   text-align: center;
@@ -122,7 +122,7 @@ header ul li a {
   text-decoration: none;
 }
 
-header ul li a:hover {
+nav ul li a:hover {
   background-color: #f47a4b;
   color: #181949;
 }
@@ -376,7 +376,14 @@ footer a:hover {
 ================================================== */
 
 /* Smaller than standard 960 (devices and browsers) */
-@media only screen and (max-width: 959px) { }
+@media only screen and (max-width: 959px) { 
+
+  header img {
+    width: 50%;
+    margin: 10px 25%;
+  }
+
+}
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 959px) { }
