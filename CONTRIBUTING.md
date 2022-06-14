@@ -1,12 +1,20 @@
+---
+lang: "en"
+---
+
 # Contributing to this project
 
-* [Contributors Agreement](#contributors-agreement)
-* [Introduction](#Introduction)
-  * [I don't want to read this whole thing I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
-* [How Can I Contribute?](#how-can-i-contribute)
-  * [Reporting Bugs](#reporting-bugs)
-  * [Suggesting Enhancements](#suggesting-enhancements)
-  * [Creating Pull Requests](#creating-pull-requests)
+- [Contributing to this project](#contributing-to-this-project)
+  - [Contributors Agreement](#contributors-agreement)
+  - [Introduction](#introduction)
+    - [I don't want to read this whole thing I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
+  - [How Can I Contribute?](#how-can-i-contribute)
+    - [Reporting Bugs](#reporting-bugs)
+      - [How Do I Submit A (Good) Bug Report?](#how-do-i-submit-a-good-bug-report)
+    - [Suggesting Enhancements](#suggesting-enhancements)
+      - [How Do I Submit A (Good) Enhancement Suggestion?](#how-do-i-submit-a-good-enhancement-suggestion)
+    - [Creating Pull Requests](#creating-pull-requests)
+      - [How Do I Submit A (Good) Pull Request?](#how-do-i-submit-a-good-pull-request)
   
 ## Contributors Agreement
 

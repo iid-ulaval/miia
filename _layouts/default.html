@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "fr" }}">
   <head>
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,17 +10,26 @@
   </head>
 
   <body>
-    <header>
-      <a href="https://iid.ulaval.ca"><img margin=0 src="{{ '/img/iid-bleu.svg' | relative_url }}" alt="Logo de l'Institut Intelligence et Données" /></a>
-      <h1>Service de Consultation en IA et données</h1>
-      <h2>Service de consultation en intelligence artificielle et données de l'Institut Intelligence et Données de l'université Laval. Réservé aux membres pour le moment.</h2>
-    </header>
+    {% if page.lang == "en" %}
+      {% include header-en.html %}
+    {% else %}
+      {% include header.html %}
+    {% endif %}
 
-    {% include navbar.html %}
+    {% if page.lang == "en" %}
+      {% include navbar-en.html %}
+    {% else %}
+      {% include navbar.html %}
+    {% endif %}
+
+ 
     
     <div id="container">
       <div class="inner">
         <section id="main_content">
+          {% if site.lang == "fr" %}
+            <p>asdf</p>
+          {% endif %}
           {{ content }}
         </section>
 
