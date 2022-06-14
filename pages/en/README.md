@@ -35,7 +35,3 @@ Si vous êtes un chercheur de la communauté IID (membre ou collaborateur) ou un
 <h4 style="text-align:center;">
     <a href="{{ '/pages/ulaval.html' | relative_url }}"><div style="font-size: 55px;">📝</div><br>Faire une demande de consultation</a>
 <h4>
-
-
-*** Translated with www.DeepL.com/Translator (free version) ***
-

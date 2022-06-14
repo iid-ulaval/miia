@@ -44,6 +44,3 @@ If you are a member of the [Université Laval] community (https://www.ulaval.ca)
 Wherever you come from, it is also always possible to get training:
 * The [Direction de la Formation Continue]() of the [Faculté de Sciences et de Génie de l'Université Laval]() offers a [training package]() to help your staff acquire the skills needed to develop your organization. You [find more information here]().
 * We are in the process of identifying a set of free self-training courses (mostly in English) that we will update as we find them here : [Training](./pages/training.md)
-
-*** Translated with www.DeepL.com/Translator (free version) ***
-

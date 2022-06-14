@@ -67,6 +67,4 @@ Avant de créer des suggestions d'amélioration, veuillez consulter la liste des
 
 Les suggestions d'amélioration sont suivies en tant que [GitHub issues] (https://guides.github.com/features/issues/). Créez un problème sur le référentiel du projet et fournissez les informations suivantes :
 
-* **Utiliser un 
-*** Traduit avec www.DeepL.com/Translator (version gratuite) ***
 

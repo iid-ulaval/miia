@@ -30,6 +30,3 @@ He is currently a research professional in AI in partnership with the Intelligen
 ## Graduate students involved 
 
 ### ???
-
-*** Translated with www.DeepL.com/Translator (free version) ***
-
