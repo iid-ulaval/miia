@@ -73,7 +73,7 @@ header {
 header img {
   float: left;
   height: 100px;
-  margin-left: 10px
+  margin-left: 0
 }
 
 header h1 {
@@ -101,19 +101,20 @@ header h2 {
 
 nav ul {
   list-style-type: none;
-  margin: 0;
+  margin: auto;
   padding: 0;
   overflow: hidden;
   background-color: #52bf9e;
   position: -webkit-sticky; /* Safari */
   position: sticky;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
 
 nav ul li {
-  float: left;
   list-style: none;
+  padding-left: 0;
 }
 
 nav ul li a {
@@ -138,9 +139,9 @@ nav ul li a:hover {
   margin: 0 auto;
 }
 
-#container .inner img {
-  max-width: 100%;
-}
+// #container .inner img {
+//   max-width: 100%;
+// }
 
 #downloads {
   margin-bottom: 40px;
@@ -360,6 +361,14 @@ footer a:hover {
   color: #444;
 }
 
+/* Custom family*/
+header {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
 /* MISC */
 .clearfix:after {
   display: block;
@@ -377,14 +386,14 @@ footer a:hover {
 ================================================== */
 
 /* Smaller than standard 960 (devices and browsers) */
-@media only screen and (max-width: 959px) { 
+// @media only screen { 
 
-  header img {
-    width: 50%;
-    margin: 10px 25%;
-  }
+//   header img {
+//     width: 50%;
+//     margin: 10px 25%;
+//   }
 
-}
+// }
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 959px) { }
@@ -393,7 +402,7 @@ footer a:hover {
 @media only screen and (max-width: 767px) {
   header {
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
   }
   #downloads {
     margin-bottom: 25px;
@@ -415,7 +424,7 @@ footer a:hover {
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
-@media only screen and (min-width: 480px) and (max-width: 767px) { }
+// @media only screen and (min-width: 480px) and (max-width: 767px) { }
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-@media only screen and (max-width: 479px) { }
+// @media only screen and (max-width: 479px) { }
