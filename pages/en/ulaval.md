@@ -39,8 +39,8 @@ In the case of a particular match between the project to be evaluated and the st
 
 ### Service reserved for IID members and collaborators (for the moment)
 
-If you are a member of the [Université Laval] community (https://www.ulaval.ca) but are not yet a member or collaborator of the [Institute for Intelligence and Data] (https://iid.ulaval.ca), we are currently developing the processes and methods to best meet your needs. We will make a public announcement when the service is more widely available.
+If you are a member of the [Université Laval](https://www.ulaval.ca) community  but are not yet a member or collaborator of the [Institute for Intelligence and Data](https://iid.ulaval.ca), we are currently developing the processes and methods to best meet your needs. We will make a public announcement when the service is more widely available.
 
 Wherever you come from, it is also always possible to get training:
-* The [Direction de la Formation Continue]() of the [Faculté de Sciences et de Génie de l'Université Laval]() offers a [training package]() to help your staff acquire the skills needed to develop your organization. You [find more information here]().
-* We are in the process of identifying a set of free self-training courses (mostly in English) that we will update as we find them here : [Training](./pages/training.md)
+* The [Direction de la Formation Continue]() of the [Faculté de Sciences et de Génie de l'Université Laval]() offers a [training package]() to help your staff acquire the skills needed to develop your organization. You can [find more information here]().
+* We are in the process of identifying a set of free self-training courses (mostly in English) that we will update as we find them here : [Training](./pages/formations.md)

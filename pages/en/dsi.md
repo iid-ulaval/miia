@@ -4,22 +4,22 @@ lang: "en"
 
 ## Introduction
 
-Il est possible d'obtenir des biens ou des services auprès des différentes unités administratives de l'Université Laval, qui agissent alors comme fournisseurs internes. Une demande de service interne, co mmunément appelée DSI, doit être complétée dans PeopleSoft.
+It is possible to obtain goods or services from the various administrative units of Laval University, which then act as internal suppliers. An internal service request, commonly called ISR, must be completed in PeopleSoft.
 
-Pour connaître les unités administratives qui exigent qu'une DSI soit complétée pour fournir un produit ou un service, consultez la «Liste des services internes » disponible sur le site internet du Service des finances, à la section `Formation et pilotage de système` - `Documentation` - `Liste des services internes`.
+To find out which administrative units require an ISR to be completed in order to provide a product or service, consult the "List of Internal Services" available on the Finance Department's website, in the section `Formation et pilotage de système` - `Documentation` - `Liste des services internes`.
 
-## La Demande de Service Interne (DSI)
+## Internal Service Request (ISR)
 
-L'acquisition de biens ou de services auprès d'unités administratives de l'Université Laval fait partie de l'approvisionnement général. Par conséquent, les menus relatifs à la saisie, la consultation et l'impression d'une demande de service se trouvent sous le libellé `Gestion des approvisionnements`.
+The acquisition of goods or services from administrative units of Laval University is part of the general procurement. Therefore, the menus for entering, viewing and printing a service request are located under the heading  `Gestion des approvisionnements`.
 
-### Accès au formulaire
+### Accessing the form
 
-Pour accéder au formulaire de saisie, utilisez le lien Demande Service interne sur la page `Accueil utilisateur` ou ciblez le menu hiérarchique suivant et sélectionnez l'onglet `Ajout valeur`.
+To access the entry form, use the Internal Service Request link on the `Accueil utilisateur` page or target the following hierarchical menu and select the `Ajout valeur` tab.
 
-* Gestion approvisionnements
-    * Demandes achat
-        - Demande Service Interne
 
-Ou bien ciblez le menu de gauche, cliquez le dossier `Gestion approvisionnements`, puis le sous-dossier `Demande d'achat` puis dans le menu `Menu principal` cliquez `Demande Service Interne`.
+── `Gestion approvisionnements`<br>&emsp;└── `Demandes achat`<br>&emsp;&emsp;└── `Demande Service Interne`
 
-Pour la suite de la procédure il est possible de consulter le [guide du Service de Consultation Statistique de l'université Laval ici](https://scs.mat.ulaval.ca/fileadmin/scs/documents/2015/Procedures_SCS-2018.pdf). 
+
+Or target the left menu, click the folder `Gestion approvisionnements`, then the subfolder `Demande d'achat` and then in the `Menu principal` click `Demande Service Interne`.
+
+For the rest of the procedure, it is possible to consult the [guide of the Statistical Consultation Service of Laval University here](https://scs.mat.ulaval.ca/fileadmin/scs/documents/2015/Procedures_SCS-2018.pdf). 
