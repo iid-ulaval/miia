@@ -1,14 +1,13 @@
-# Contribuer à ce projet
+## Contribuer à ce projet <!-- omit in toc -->
 
-- [Contribuer à ce projet](#contribuer-à-ce-projet)
-  - [Accord des contributeurs](#accord-des-contributeurs)
-  - [Introduction](#introduction)
-    - [Je n'ai pas envie de lire tout ça, j'ai juste une question !!!](#je-nai-pas-envie-de-lire-tout-ça-jai-juste-une-question-)
-  - [Comment puis-je contribuer ?](#comment-puis-je-contribuer-)
-    - [Signaler les bogues](#signaler-les-bogues)
-      - [Comment soumettre un (bon) rapport de bogue ?](#comment-soumettre-un-bon-rapport-de-bogue-)
-    - [Suggérer des améliorations](#suggérer-des-améliorations)
-      - [Comment puis-je soumettre une (bonne) suggestion d'amélioration ?](#comment-puis-je-soumettre-une-bonne-suggestion-damélioration-)
+- [Accord des contributeurs](#accord-des-contributeurs)
+- [Introduction](#introduction)
+  - [Je n'ai pas envie de lire tout ça, j'ai juste une question !!!](#je-nai-pas-envie-de-lire-tout-ça-jai-juste-une-question-)
+- [Comment puis-je contribuer ?](#comment-puis-je-contribuer-)
+  - [Signaler les bogues](#signaler-les-bogues)
+    - [Comment soumettre un (bon) rapport de bogue ?](#comment-soumettre-un-bon-rapport-de-bogue-)
+  - [Suggérer des améliorations](#suggérer-des-améliorations)
+    - [Comment puis-je soumettre une (bonne) suggestion d'amélioration ?](#comment-puis-je-soumettre-une-bonne-suggestion-damélioration-)
   
 ## Accord des contributeurs
 
