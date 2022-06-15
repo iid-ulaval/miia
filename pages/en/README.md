@@ -30,7 +30,7 @@ No matter where you come from, it is always possible to get training:
 
 ### IID Community Member
 
-Si vous êtes un chercheur de la communauté IID (membre ou collaborateur) ou un étudiant d'[un de ces chercheurs](https://iid.ulaval.ca/expertises/) et que vous avez un besoin auquel on peut répondre selon notre [offre de services](./pages/ulaval.md), vous trouverez sur cette page les différentes étapes du processus de consultation.
+If you are a researcher of the IID community (member or collaborator) or a student of [one of these researchers](https://iid.ulaval.ca/expertises/) and you have a need that can be addressed through our [service offering](./ulaval.md), you will find on this page the different steps of the consultation process.
 
 <h4 style="text-align:center;">
     <a href="{{ '/pages/en/ulaval.html' | relative_url }}"><div style="font-size: 55px;">📝</div><br>Make a claim</a>
