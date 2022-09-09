@@ -1,4 +1,4 @@
-
+<br>
 ### À propos de nous
 
 Vous avez besoin de connaissances et d’expertise en intelligence artificielle et en science des données dans le cadre de projets de recherche? Profitez du soutien du Service de consultation en IA et données (SCIAD) de l’Université Laval. 
