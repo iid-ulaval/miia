@@ -1,8 +1,8 @@
-## Formations en apprentissage automatique disponibles sur le web
+## Formations en apprentissage automatique disponibles sur le Web
 
-Une liste de ressources pertinentes pour mieux appréhender les concepts et techniques en apprentissage automatique et en gestion et valorisation de données.
+Vous trouverez ici une liste de ressources pertinentes afin de mieux appréhender les concepts et techniques en apprentissage automatique et en gestion et valorisation de données.
 
-### Apprentissage Automatique 
+### Apprentissage automatique (Machine Learning)
 
 1. (fr) [Notions de base en apprentissage automatique](https://www.brioeducation.ca/cours-activites/notions-de-base-de-l-apprentissage-automatique-nqzcwt300/detail/)
 2. (fr) [École d'hiver en apprentissage automatique](https://www.brioeducation.ca/cours-activites/ecole-en-ligne-en-apprentissage-automatique-mqpyjc505/detail/)
@@ -11,7 +11,7 @@ Une liste de ressources pertinentes pour mieux appréhender les concepts et tech
 
 <!-- Ajouter les formations IVADO. -->
 
-#### Apprentissage profond 
+#### Apprentissage profond (Deep Learning)
 
 1. (fr) Notions de base pour le traitement automatique du langage naturel
 2. (fr) Notions avancées pour le traitement automatique du langage naturel
@@ -20,7 +20,7 @@ Une liste de ressources pertinentes pour mieux appréhender les concepts et tech
 5. (en) [Tutoriel fast.ai](https://docs.fast.ai/)
 
 
-### Visualisation
+### Visualisation de données
 
 [How humans see data](https://www.youtube.com/watch?v=fSgEeI2Xpdc)
 
