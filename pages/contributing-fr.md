@@ -24,7 +24,7 @@ Avant de créer des suggestions d'amélioration, veuillez consulter la liste des
 
 #### Comment puis-je soumettre une (bonne) suggestion d'amélioration ?
 
-Les suggestions d'amélioration sont suivies en tant que [GitHub issues] (https://guides.github.com/features/issues/). Créez un problème sur le référentiel du projet et fournissez les informations suivantes :
+Les suggestions d'amélioration sont suivies en tant que [GitHub issues](https://guides.github.com/features/issues/). Créez un problème sur le référentiel du projet et fournissez les informations suivantes :
   1. Lien à ajouter
   2. Une courte description du lien si besoin
 
