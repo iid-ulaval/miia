@@ -25,7 +25,7 @@ Si vous êtes chercheur.e membre ou collaborateur de l'IID, ou un.e étudiant.e 
 
 <h4 style="text-align:center;">
     <a href="{{ '/pages/ulaval.html' | relative_url }}"><div style="font-size: 55px;">📝</div><br>Faire une demande de consultation</a>
-<h4>
+</h4>
     
 ##Service réservé aux chercheur.e.s membre ou collaborateur de l'IID et leurs étudiant.e.s (pour le moment)
     
