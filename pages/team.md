@@ -18,8 +18,8 @@ Fort d’un doctorat en apprentissage par renforcement multiagent et de plus de 
 
 ### Gabriel Leclerc 
 
-Gabriel Leclerc a complété une maitrise en IA à l’université Laval en partenariat avec le centre de recherche CERVO. Il s’est spécialisé dans l’application de modèles de réseaux de neurones profonds appliqués au domaine de l’imagerie de microscopie. Il aun intérêt pour l’application de l’intelligence artificielle autant aux images qu’aux séries temporelles.
- 
+Gabriel Leclerc a complété une maitrise en IA à l’université Laval en partenariat avec le centre de recherche CERVO. Il s’est spécialisé dans l’application de modèles de réseaux de neurones profonds appliqués au domaine de l’imagerie de microscopie. Il a un intérêt pour l’application de l’intelligence artificielle autant aux images qu’aux séries temporelles.
+
 Il est présentement professionnel de recherche en IA en partenariat avec l’institut intelligence et données (IID) et le centre intégré universitaire de santé et de services sociaux de la Capitale-Nationale (CIUSSS-CN). Il offre un appui en IA dans les projets de recherches des chercheurs de différents centres de recherche. 
 
 
