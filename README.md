@@ -26,9 +26,12 @@ Si vous êtes chercheur.e membre ou collaborateur de l'IID, ou un.e étudiant.e 
 <h4 style="text-align:center;">
     <a href="{{ '/pages/ulaval.html' | relative_url }}"><div style="font-size: 55px;">📝</div><br>Faire une demande de consultation</a>
 </h4>
-    
-##Service réservé aux chercheur.e.s membre ou collaborateur de l'IID et leurs étudiant.e.s (pour le moment)
-    
+
+---
+> Service réservé aux chercheur.e.s membre ou collaborateur de l'IID et leurs étudiant.e.s (pour le moment)
+
+---
+
 ### Autres opportunités de soutien ou de formation
 
 Si vous êtes un.e chercheur.e ou un.e étudiant.e de l'[Université Laval](https://www.ulaval.ca), mais que vous n'êtes pas affilié à l'[Institut intelligence et données](https://iid.ulaval.ca), sachez que les processus et les méthodes qui permettront de répondre au mieux à vos besoins sont actuellement en cours de développement. Une communication publique sera effectuée lorsque les services du SCIAD seront plus largement ouvert à la communauté ULaval. 
