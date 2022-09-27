@@ -29,7 +29,7 @@ Note COVID-19: Consultations will be conducted mostly at a distance.
 If you are a researcher member or collaborator of IID, or a student related to [one of these researchers](https://iid.ulaval.ca/expertises/) and you have a need that SCIAD can meet, please consult our [service offer](./membre-iid.html): you will find the different steps of the consultation process.
 
 <h4 style="text-align:center;">
-    <a href="{{ '/pages/en/membre-iid.html' | relative_url }}"><div style="font-size: 55px;">📝</div>Make a claim</a>
+    <a href="{{ '/pages/en/membre-iid.html' | relative_url }}"><div style="font-size: 55px;">📝</div>Submit a request for a consultation</a>
 </h4>
 
 ---
@@ -37,4 +37,4 @@ If you are a researcher member or collaborator of IID, or a student related to [
 
 ---
 
-If you are not affiliated with the [Institut intelligence et données](https://iid.ulaval.ca), please be aware of [our other support or training opportunities](./externe.md).
+If you are not affiliated with the [Institute Intelligence and Data](https://iid.ulaval.ca), please be aware of [our other support or training opportunities](./externe.md).

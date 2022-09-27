@@ -6,12 +6,12 @@ lang: "en"
 
 ### Service reserved for IID members and collaborators (for the moment)
 
-If you are a member of the [Laval University](https://www.ulaval.ca) community  but not yet a member or collaborator of the [Institute for Intelligence and Data](https://iid.ulaval.ca), we are currently developing the processes and methods to best meet your needs. We will make a public announcement when the service is more widely available.
+If you are a member of the [Université Laval](https://www.ulaval.ca) community  but not yet a member or collaborator of the [Institute Intelligence and Data](https://iid.ulaval.ca) (or one of their students), we are currently developing the processes and methods to best meet your needs. We will make a public announcement when the service is more widely available.
 
-If you are a professional and need help in developing your projects, there are several resources already available to you: 
-* [PARI-CNRC](https://nrc.canada.ca/fr/soutien-linnovation-technologique) offers technology innovation support that may allow you to access our services. Please contact the NRC-IRAP officer in your region. 
-* The [Master of Computer Science - Artificial Intelligence](https://www.ift.ulaval.ca/ia) at Laval University has a mandatory internship program for which [you could propose a project](https://iid.ulaval.ca/miia).
+If you are a professional and need help in developing your projects, there are several resources already available for you: 
+* [PARI-CNRC](https://nrc.canada.ca/fr/soutien-linnovation-technologique) offers technology innovation support that may allow you to access our services. Please contact the NRC-IRAP officer in your area. 
+* The [Master of Computer Science - Artificial Intelligence](https://www.ift.ulaval.ca/ia) at Université Laval has a mandatory internship program for which [you could propose a project](https://iid.ulaval.ca/miia).
 
-No matter where you come from, it is always possible to get training:
-* The [Direction de la Formation Continue]() of the [Faculté de Sciences et de Génie de l'Université Laval]() offers a [training package]() to help your staff acquire the skills needed to develop your organization. You [find more information here]().
-* We are in the process of identifying a set of free self-training courses (mostly in English) that we will update as we find them here : [Training](./pages/formations.md)
+Irrespective of your location, it is always possible to receive training:
+* The [Direction de la Formation Continue]() of the [Faculté de Sciences et de Génie de l'Université Laval]() offers a [training package]() which will allow your staff to acquire the skills needed to develop your organization. You [find more information here]().
+* We are in the process of identifying a set of free self-training courses (mostly in English) that we will update regularly: [Training](./pages/formations.md)

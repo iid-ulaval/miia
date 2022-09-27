@@ -6,7 +6,7 @@ lang: "en"
 
 - [Contributors Agreement](#contributors-agreement)
 - [Introduction](#introduction)
-  - [I don't want to read this whole thing I just have a question!!!](#i-dont-want-to-read-this-whole-thing-i-just-have-a-question)
+  - [I Prefer not to read this whole document; I just have a question!!!](#i-prefer-not-to-read-this-whole-document-i-just-have-a-question)
 - [How Can I Contribute?](#how-can-i-contribute)
   - [Reporting Bugs](#reporting-bugs)
     - [How Do I Submit A (Good) Bug Report?](#how-do-i-submit-a-good-bug-report)
@@ -17,17 +17,17 @@ lang: "en"
   
 ## Contributors Agreement
 
-By submitting patches to this project you agree to allow them to be redistributed under the project's license, according to the normal forms and usages of the open-source community.
+By submitting patches to this project, you agree to allow them to be distributed under the project's license, according to the normal forms and usages of the open-source community.
 
 ## Introduction
 
-First off, thank you for considering contributing to this project. It's people like you that make it such a great tool.
+Thank you for considering to offer a contribution to this project. Thanks to people like you, this will become a great tool.
 
-Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
+Following these guidelines helps to communicate that you respect the time that the developers devote to managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
-This is an open source project and we love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into the main project itself.
+This is an open source project and we love to receive contributions from our community — i.e. you! There are many ways to contribute, from writing tutorials or blog posts, to improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into the main project itself.
 
-### I don't want to read this whole thing I just have a question!!!
+### I Prefer not to read this whole document; I just have a question!!!
 
 We currently allow our users to use the issue tracker for support questions. But please be wary that maintaining an open source project can take a lot of time from the maintainers. If asking for a support question, state it clearly and take the time to explain your problem properly. Also, if your problem is not strictly related to this project we recommend you to use Stack Overlow instead.
 

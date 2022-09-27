@@ -29,4 +29,6 @@ He is currently a research professional in AI in partnership with the Intelligen
 
 ## Graduate students involved 
 
-### ???
+### Adam Tupper
+
+### Mazid Osseni
