@@ -26,4 +26,5 @@ Il est présentement professionnel de recherche en IA en partenariat avec l’in
 ## Étudiants gradués impliqués 
 
 ### Adam Tupper
+
 ### Mazid Osseni
