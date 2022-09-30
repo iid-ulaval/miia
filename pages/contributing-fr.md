@@ -1,20 +1,10 @@
 ## Contribuer à la page formation <!-- omit in toc -->
 
-- [Accord des contributeurs](#accord-des-contributeurs)
-- [Introduction](#introduction)
-- [Comment puis-je contribuer ?](#comment-puis-je-contribuer-)
-  - [Suggérer des améliorations](#suggérer-des-améliorations)
-    - [Comment puis-je soumettre une (bonne) suggestion d'amélioration ?](#comment-puis-je-soumettre-une-bonne-suggestion-damélioration-)
+Tout d'abord, merci d'envisager de contribuer. Ce sont des gens comme vous qui en font une ressource formidable.
   
-## Accord des contributeurs
+### Accord des contributeurs
 
 En soumettant des correctifs à ces pages, vous acceptez qu'ils soient redistribués sous la licence du projet, selon les formes et usages normaux de la communauté open-source.
-
-## Introduction
-
-Tout d'abord, merci d'envisager de contribuer à ces pages. Ce sont des gens comme vous qui en font un outil formidable.
-
-## Comment puis-je contribuer ?
 
 ### Suggérer des améliorations
 
