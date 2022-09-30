@@ -14,4 +14,4 @@ If you are a professional and need help in developing your projects, there are s
 
 Irrespective of your location, it is always possible to receive training:
 * The [Direction de la Formation Continue]() of the [Faculté de Sciences et de Génie de l'Université Laval]() offers a [training package]() which will allow your staff to acquire the skills needed to develop your organization. You [find more information here]().
-* We are in the process of identifying a set of free self-training courses (mostly in English) that we will update regularly: [Training](./pages/formations.md)
+* We are in the process of identifying a set of free self-training courses (mostly in English) that we will update regularly: [Training](./formations.md)

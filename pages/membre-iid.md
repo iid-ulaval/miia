@@ -37,9 +37,4 @@ Dans le contexte d'une adéquation particulière entre le projet a évaluer et l
 
 ### Service réservé aux membres et collaborateurs IID (pour le moment)
 
-Si vous êtes un.e chercheur.e ou un.e étudiant.e de l'[Université Laval](https://www.ulaval.ca), mais que vous n'êtes pas affilié à l'[Institut intelligence et données](https://iid.ulaval.ca), sachez que les processus et les méthodes qui permettront de répondre au mieux à vos besoins sont actuellement en cours de développement. Une communication publique sera effectuée lorsque les services du SCIAD seront plus largement ouvert à la communauté ULaval. 
-
-Quelle que soit votre provenance, il est également possible d'acquérir diverses formations spécialisées afin d'aider votre personnel à acquérir les compétences nécessaires au développement de votre organisation :
-* Plusieurs formations sont offertes sur le campus de l'Université Laval, par diverse facultées - dont la Faculté des sciences et de génie - ainsi que par le biais de la Direction de la fomration continue. Quelques-unes d'entre elles sont [répertoriées sur le site de l'IID](https://iid.ulaval.ca/services/#liste).
-* L'équipe de l'IID travaille actuellement au développement de MOOC et de formations en ligne dédiées à l'apprentissage automatique ou profond, à la gestion et à l'intendance des données de recherche, ainsi qu'au cadre éthique associé à ces pratiques. Ces formations seront rendues disponibles à l'automne 2022 et à l'hiver 2023. 
-* Un recensement d'un ensemble d'autoformations gratuites (pour la plupart en anglais) est également mis à jour au fil de nos découvertes : [Formations](./pages/formations.md)
+Si vous n'êtes pas affilié à l'[Institut intelligence et données](https://iid.ulaval.ca), il existe d'[autres opportunités de soutien ou de formation](./externe.md).
