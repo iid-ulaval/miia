@@ -17,7 +17,7 @@ A list of relevant resources to better understand the concepts and techniques in
 
 <!-- Add IVADO trainings. -->
 
-#### Deep Learning 
+### Deep Learning 
 
 1. (FR) [Basic notions of deep lerning and neural networks](https://www.brioeducation.ca/cours-activites/notions-de-base-de-l-apprentissage-profond-et-des-reseaux-de-neurones-sanbba461/detail/)
 2. (FR) [Deep learning with textual data](https://www.brioeducation.ca/cours-activites/traitement-des-donnees-textuelles-avec-lapprentissage-profond-uuahzf451/detail/)
