@@ -19,7 +19,7 @@ Parmi les services offerts par le SCIAD :
 
 Si vous êtes plutôt à la recherche de services de modélisation mathématique ou statistique classique, dirigez-vous plutôt vers le [Service de Consultation Statistique de l'Université Laval](https://scs.mat.ulaval.ca/accueil/).
 
-Consultez les différentes sections ci dessous afin d'obtenir la description complète de nos services et la tarification.
+Consultez les différentes sections ci-dessous afin d’obtenir la description complète de nos services et la tarification.
 
 **Note COVID-19:** Les consultations fonctionneront pour l'essentiel à distance.
 
