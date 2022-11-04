@@ -13,5 +13,5 @@ If you are a professional and need help in developing your projects, there are s
 * The [Master of Computer Science - Artificial Intelligence](https://www.ift.ulaval.ca/ia) at Université Laval has a mandatory internship program for which [you could propose a project](https://iid.ulaval.ca/miia).
 
 Irrespective of your location, it is always possible to receive training:
-* The [Direction de la Formation Continue]() of the [Faculté de Sciences et de Génie de l'Université Laval]() offers a [training package]() which will allow your staff to acquire the skills needed to develop your organization. You [find more information here]().
+* The [Direction de la Formation Continue](https://www.fsg.ulaval.ca/faculte/services-a-la-communaute-facultaire/vice-decanat-aux-etudes/formation-continue) of the [Faculté de Sciences et de Génie de l'Université Laval](https://www.fsg.ulaval.ca/) offers a [training package](https://www.brioeducation.ca/domaines/sciences-et-genie/) which will allow your staff to acquire the skills needed to develop your organization. You [find more information here](https://iid.ulaval.ca/services/#liste).
 * We are in the process of identifying a set of free self-training courses (mostly in English) that we will update regularly: [Training](./formations.md)
