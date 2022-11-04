@@ -1,8 +1,8 @@
 ## Service à la communauté
 
-### Les services du SCIAD sont offert uniquement aux chercheur.e.s membre ou collaborateur de l'IID et à leurs étudiant.e.s (pour le moment)
+### Les services du SCIAD sont offert uniquement aux chercheur.e.s membres ou collaborateurs de l'IID et à leurs étudiant.e.s (pour le moment)
 
-Si vous êtes un.e chercheur.e ou un.e étudiant.e de l'[Université Laval](https://www.ulaval.ca), mais que vous n'êtes pas affilié à l'[Institut intelligence et données](https://iid.ulaval.ca), sachez que les processus et les méthodes qui permettront de répondre au mieux à vos besoins sont actuellement en cours de développement. Une communication publique sera effectuée lorsque les services du SCIAD seront plus largement ouvert à la communauté ULaval. 
+Si vous êtes un.e chercheur.e ou un.e étudiant.e de l'[Université Laval](https://www.ulaval.ca), mais que vous n'êtes pas affilié à l'[Institut intelligence et données](https://iid.ulaval.ca), sachez que les processus et les méthodes qui permettront de répondre au mieux à vos besoins sont actuellement en cours de développement. Une communication publique sera effectuée lorsque les services du SCIAD seront plus largement ouverts à la communauté ULaval. 
 
 Si vous êtes un.e professionnel.le et que vous avez besoin d'aide dans l'élaboration de vos projets en intelligence artificielle ou valorisation des données, sachez que plusieurs ressources s'offrent déjà à vous : 
 * Le [PARI-CNRC](https://nrc.canada.ca/fr/soutien-linnovation-technologique) offre du soutien à l'innovation technologique qui pourrait vous permettre d'accéder à nos services. Veuillez prendre contact avec l'agent PARI-CNRC de votre région pour plus de détails. 
