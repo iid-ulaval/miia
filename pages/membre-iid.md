@@ -23,7 +23,7 @@ Les services du SCIAD doivent être utilisés dans le cadre d'un projet de reche
 
 # Équipe de support
 
-Le conseil sera majoritairement réalisé par des étudiants de 3e cycle membres de l'IID ayant démontré leur capacité à offrir un tel encadrement. Ils seront supporté par l'équipe de professionnels de recherche de l'IID. 
+Le conseil sera majoritairement réalisé par des étudiants de 3e cycle membres de l’IID ayant démontré leur capacité à offrir un tel encadrement. Ils seront supportés par l’équipe de professionnels de recherche de l’IID. 
 
 [Pour en savoir plus sur l'équipe, cliquez ici](./equipe.md).
 
