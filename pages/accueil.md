@@ -5,9 +5,9 @@ permalink: /
 <br>
 ### À propos de nous
 
-Vous avez besoin de connaissances et d’expertise en intelligence artificielle et en science des données dans le cadre de projets de recherche? Profitez du soutien du Service de consultation en IA et données (SCIAD) de l’Université Laval. 
+Vous avez besoin de connaissances et d’expertise en intelligence artificielle et en science des données dans le cadre de projets de recherche? Dès la fin janvier 2023, profitez du soutien du Service de consultation en IA et données (SCIAD) de l’Université Laval. 
 
-Mis en place en septembre 2022 par l’[Institut intelligence et données (IID)](https://iid.ulaval.ca) de l’Université Laval, le SCIAD permet aux étudiant.e.s lié.e.s à des chercheur.e.s membres et collaborateurs de l’Institut d'accéder à un soutien offert par des professionnels ou des auxiliaires de recherche (étudiant.e.s aux cycles supérieurs) afin de les aider dans leur usage d’algorithmes d’intelligence artificielle (IA) ou de traitement de données dans le cadre d’un projet ou d’une initiative de recherche réalisé à l’Université Laval. 
+Mis en place par l’[Institut intelligence et données (IID)](https://iid.ulaval.ca) de l’Université Laval, le SCIAD permet aux étudiant.e.s lié.e.s à des chercheur.e.s membres et collaborateurs de l’Institut d'accéder à un soutien offert par des professionnels ou des auxiliaires de recherche (étudiant.e.s aux cycles supérieurs) afin de les aider dans leur usage d’algorithmes d’intelligence artificielle (IA) ou de traitement de données dans le cadre d’un projet ou d’une initiative de recherche réalisé à l’Université Laval. 
 
 Parmi les services offerts par le SCIAD : 
 * Analyse de besoin
