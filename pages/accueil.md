@@ -11,19 +11,27 @@ Géré par l’[Institut intelligence et données (IID)](https://iid.ulaval.ca) 
 1. Définir précisément un projet grâce à une analyse personnalisée du besoin d'affaire de l'organisation partenaire
 2. Être accompagné dans la rédaction de la demande de subvention [Mitacs](https://www.mitacs.ca/fr/programmes/acceleration) pour le financement du stage de l'étudiant.e
 3. Accompagner l'étudiant.e hebdomadairement tout au long du stage pour s'assurer de la rigueur méthodologique et du support scientifique de l'étudiant.e
-4. Garantir que la méthodologie apportera des résulats mesurables quant à la problmatique d'affaire initialement établie.
+4. Garantir que la méthodologie apportera des résulats mesurables quant à la problématique d'affaire initialement établie.
 
 
 Profitez d’un tour d’horizon complet (en moins de quinze minutes!) des divers aspects associés au programme en regardant cette vidéo : 
-<iframe style="text-align:center;width: 90%; margin: 10px 0" controls src="https://youtu.be/gj4ueVBdlWw" type="video/mp4">
-Your browser does not support the video tag.
-</iframe>
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/gj4ueVBdlWw"
+      width="90%"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 Selon votre statut, cliquez sur le bouton ci-dessous qui vous correspond pour en savoir plus sur les détails qui vous concernent. 
 
 <h4 style="text-align:center;">
-    <a class="button" href="{{ '/pages/part.html' | relative_url }}"><div style="font-size: 55px;">🏢</div> Je suis une organisation</a>
-    <a class="button" href="{{ '/pages/etu.html' | relative_url }}"><div style="font-size: 55px;">👩🏻‍🎓</div> Je suis un.e étudiant.e</a>
+    <a class="button" href="{{ '/pages/part.html' | relative_url }}"><div style="font-size: 55px;">🏢</div> <div>Je suis une organisation</div></a>
+    <a class="button" href="{{ '/pages/etu.html' | relative_url }}"><div style="font-size: 55px;">👩🏻‍🎓</div> <div>Je suis un.e étudiant.e</div></a>
 </h4>
 
+<br>
 
