@@ -5,7 +5,7 @@ permalink: /
 <br>
 ### À propos des stages de la Maitrise professionnelle en Informatique - Intelligence Artificielle (MIIA)
 
-Vous avez besoin d’expertise en intelligence artificielle et en science des données dans le cadre de projets de recherche et développement ? Recrutez directement un stagiaire de la MIIA financé grâce aux fonds subventionnaires [Mitacs](https://www.mitacs.ca/fr/programmes/acceleration) !
+Vous avez besoin d’expertise en intelligence artificielle et en science des données dans le cadre de projets de R&D ? Recrutez directement un stagiaire de la MIIA financé grâce aux fonds subventionnaires [Mitacs](https://www.mitacs.ca/fr/programmes/acceleration) !
 
 Géré par l’[Institut intelligence et données (IID)](https://iid.ulaval.ca) de l’Université Laval, le programme de stage MIIA permet aux entreprises canadiennes d'accueillir un.e étudiant.e de la Maitrise en IA et d'accéder à un soutien offert par des professionnels de l'IA afin de : 
 1. Définir précisément un projet grâce à une analyse personnalisée du besoin d'affaire de l'organisation partenaire
@@ -14,12 +14,16 @@ Géré par l’[Institut intelligence et données (IID)](https://iid.ulaval.ca) 
 4. Garantir que la méthodologie apportera des résulats mesurables quant à la problmatique d'affaire initialement établie.
 
 
+Profitez d’un tour d’horizon complet (en moins de quinze minutes!) des divers aspects associés au programme en regardant cette vidéo : 
+<video style="text-align:center;width: 90%; margin: 10px 0" controls src="https://youtu.be/gj4ueVBdlWw" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 Selon votre statut, cliquez sur le bouton ci-dessous qui vous correspond pour en savoir plus sur les détails qui vous concernent. 
 
 <h4 style="text-align:center;">
-    <button type="button" href="{{ '/pages/part.html' | relative_url }}"><div style="font-size: 55px;">🏢 Je suis une organisation</div></button>
+    <button type="button" href="{{ '/pages/part.html' | relative_url }}"><div style="font-size: 55px;">🏢</div> Je suis une organisation</button>
     <button type="button" href="{{ '/pages/etu.html' | relative_url }}"><div style="font-size: 55px;">👩🏻‍🎓</div> Je suis un.e étudiant.e</button>
-    <button type="button" href="{{ '/pages/acad.html' | relative_url }}"><div style="font-size: 55px;">👨🏻‍🏫</div> Je suis un.e professeur.e</button>
 </h4>
 
 
