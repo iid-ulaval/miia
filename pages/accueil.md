@@ -27,8 +27,8 @@ Profitez d’un tour d’horizon complet (en moins de quinze minutes!) des diver
 Selon votre statut, cliquez sur le bouton ci-dessous qui vous correspond pour en savoir plus sur les détails qui vous concernent. 
 
 <h4 style="text-align:center;">
-    <a class="button" href="{{ '/pages/part.html' | relative_url }}"><div style="font-size: 55px;">🏢</div> <div>Je suis une organisation</div></a>
-    <a class="button" href="{{ '/pages/etu.html' | relative_url }}"><div style="font-size: 55px;">👩🏻‍🎓</div> <div>Je suis un.e étudiant.e</div></a>
+    <a class="button" href="{{ '/pages/part.html' | relative_url }}"><div style="font-size: 33px;">🏢</div> <div>Je suis une organisation</div></a>
+    <a class="button" href="{{ '/pages/etu.html' | relative_url }}"><div style="font-size: 33px;">👩🏻‍🎓</div> <div>Je suis un.e étudiant.e</div></a>
 </h4>
 
 <br>
