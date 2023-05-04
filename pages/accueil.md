@@ -3,7 +3,7 @@ permalink: /
 ---
 
 <br>
-### À propos des stages de la Maitrise professionnelle en Informatique - Intelligence Artificielle (MIIA)
+### À propos des stages de la MIIA
 
 Vous avez besoin d’expertise en intelligence artificielle et en science des données dans le cadre de projets de R&D ? Recrutez directement un stagiaire de la MIIA financé grâce aux fonds subventionnaires [Mitacs](https://www.mitacs.ca/fr/programmes/acceleration) !
 
@@ -15,15 +15,15 @@ Géré par l’[Institut intelligence et données (IID)](https://iid.ulaval.ca) 
 
 
 Profitez d’un tour d’horizon complet (en moins de quinze minutes!) des divers aspects associés au programme en regardant cette vidéo : 
-<video style="text-align:center;width: 90%; margin: 10px 0" controls src="https://youtu.be/gj4ueVBdlWw" type="video/mp4">
+<iframe style="text-align:center;width: 90%; margin: 10px 0" controls src="https://youtu.be/gj4ueVBdlWw" type="video/mp4">
 Your browser does not support the video tag.
-</video>
+</iframe>
 
 Selon votre statut, cliquez sur le bouton ci-dessous qui vous correspond pour en savoir plus sur les détails qui vous concernent. 
 
 <h4 style="text-align:center;">
-    <button type="button" href="{{ '/pages/part.html' | relative_url }}"><div style="font-size: 55px;">🏢</div> Je suis une organisation</button>
-    <button type="button" href="{{ '/pages/etu.html' | relative_url }}"><div style="font-size: 55px;">👩🏻‍🎓</div> Je suis un.e étudiant.e</button>
+    <a class="button" href="{{ '/pages/part.html' | relative_url }}"><div style="font-size: 55px;">🏢</div> Je suis une organisation</a>
+    <a class="button" href="{{ '/pages/etu.html' | relative_url }}"><div style="font-size: 55px;">👩🏻‍🎓</div> Je suis un.e étudiant.e</a>
 </h4>
 
 
