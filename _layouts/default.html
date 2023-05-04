@@ -10,32 +10,17 @@
   </head>
 
   <body>
-    {% if page.lang == "en" %}
-      {% include header-en.html %}
-    {% else %}
-      {% include header.html %}
-    {% endif %}
+    {% include header.html %}
+    {% include navbar.html %}
 
-    {% if page.lang == "en" %}
-      {% include navbar-en.html %}
-    {% else %}
-      {% include navbar.html %}
-    {% endif %}
-
- 
-    
     <div id="container">
       <div class="inner">
         <section id="main_content">
-          {% if site.lang == "fr" %}
-            <p>asdf</p>
-          {% endif %}
           {{ content }}
         </section>
 
         <footer>
           {{ site.title | default: site.github.repository_name }} est maintenu par <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
-          Pour contribuer au développement de ces pages, voir le <a href="{{ '/CONTRIBUTING.html' | relative_url }}">guide</a>.<br>
           Cette page est générée par les <a href="https://pages.github.com">Pages GitHub</a>. Sous licence <a href="{{ '/LICENSE.html' | relative_url }}">MIT</a>.
         </footer>
 
