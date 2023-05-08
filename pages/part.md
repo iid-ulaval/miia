@@ -4,6 +4,70 @@
 
 # Les différentes étapes du processus pour l'organisation
 
+
+
+
+nous allons nous appuyer sur la plateforme du [Service de Développement Professionnel de l’Université Laval (SDP)](https://www.sdp.ulaval.ca/) pour faciliter l’appariement entre vous et les étudiants. Nous vous invitons donc à proposer un projet de stage via [leur plateforme](https://www.sdp.ulaval.ca/employeurs/afficher/stage) en spécifiant bien les informations suivantes : 
+
+    Offre de stage pour le 2e cycle en Intelligence Artificielle
+    Ouverture de l’offre du 24 avril au 14 mai
+
+Merci de ne mettre qu’un projet par offre en spécifiant bien [1] Le contexte, [2] le problème et les objectifs et [3] les données disponibles.
+
+Dès lors que nous aurons éventuellement validé la faisabilité du projet avec vous, nous proposerons alors celui-ci aux étudiants selon l’agenda ci-dessous pour faire l’appariement. Nous vous proposerons aussi de contacter directement les étudiants dont le curriculum pourrait vous intéresser. Une fois que vous aurez rencontré tous les étudiants souhaités, nous procéderons à un appariement le plus équitable possible par “repêchage” (détaillé dans le calendrier ci-dessous).
+
+Une fois l’appariement réalisé nous reprendrons contact avec vous pour préciser les différentes exigences nécessaires à l’acceptation par notre comité scientifique du projet Mitacs à qui nous soumettrons le projet autour de la mi-juin. 
+
+Toutes les informations sur le programme et le financement sont disponibles à l’adresse suivante: https://iid.ulaval.ca/miia. 
+
+Le processus peut-être résumé en quelques points :
+
+Jusqu’au 24/04/2023
+	
+
+Soumission du projet sur le site du SDP-ULaval et évaluation de la portée et de la faisabilité avec un professionnel de l’IID au besoin. 
+
+24/04/2023
+	
+
+Ouverture des offres aux étudiants et réception des CVs des étudiants prêts à partir
+
+Jusqu’au 14/05/2023
+	
+
+Entrevues et sélection des préférences et confirmation de celui-ci sur votre page de gestion de stage du SDP
+
+Jusqu’au 19/05/2023
+	
+
+“Repêchage” des étudiants : 
+- Le 15 mai : Les étudiants qui ont été choisis comme #1 par au moins un partenaire reçoivent la ou les proposition(s) de stage, ils ont 24h pour en accepter une seule (ou les refuser toutes)
+- Le 16 Mai : Si votre offre a été refusée, nous la proposons à votre choix #2 
+- Et ce, jusqu’à ce que tout le monde soit apparié (idéalement).
+
+Jusqu’au 15/06/2023
+	
+
+Rédaction de la demande de subvention par l’IID avec votre collaboration
+
+Jusqu’au 15/07/2023
+	
+
+Soumission au comité scientifique Mitacs
+Soumission au CERUL si nécessaire
+Puis soumission à l’Université pour signature et facturation
+
+18/09/2023
+	
+
+Début du stage
+
+Veuillez nous contacter par courriel à stages@iid.ulaval.ca si vous avez des questions complémentaires et n’hésitez pas à faire suivre le courriel à toute personne qui pourrait être intéressée à recevoir des stagiaires de la maîtrise professionnelle en informatique - IA.
+
+En espérant collaborer avec vous,
+
+
+
 ## Avant de proposer un projet
 
 ## Proposer un projet de stage
