@@ -14,7 +14,7 @@ Chaque session, un courriel est envoyé sur la liste institutionnelle LEP-M-IFT-
 L'équipe de professionnel de l'IID collecte régulièrement des stages auprès des entreprises du Québec dont la procédure de sélection est déterminée au point suivant.
 
 Cependant il se peut que l'offre ne vous convienne pas où que vous souhaitiez le faire dans une entreprise particulière. Pour cela, il est important de prendre les points suivants en considération : 
-* Tout stage doit être validé par notre comité scientifique. Nous mettons notre expertise à disposition pour aider toute entreprise [souhaitant proposer un stage](./part.md). Prenez contact avec [notre équipe](mailto:stages@iid.ulaval.ca) pour en bénéficier.
+* Tout stage doit être validé par notre comité scientifique. Nous mettons notre expertise à disposition pour aider toute entreprise [souhaitant proposer un stage](./part.md). [Prenez contact avec notre équipe] pour en bénéficier.
 * Nous privilégions les financements Mitacs pour les subventions de stage, ce mode de financement permet de payer également l'accompagnement de votre stage par une équipe de professionnels hautement qualifiés en IA qui ont déjà accompagnés plus de 100 stages. 
 
 ### Je veux faire mon stage chez mon employeur actuel
@@ -42,9 +42,10 @@ Vous n'irez en milieu de staque que 26 semaines sur les 32 que composent deux se
 
 
 [^1]: Assurez-vous de :
-* Mentionner que vous êtes en train de réaliser une maîtrise professionnelle en informatique - IA. 
-* Préciser les différents types de problèmes d’apprentissage automatique et/ou les domaines d’application dans le champ “intérêts” pour assurer les partenaires de l’adéquation de vos intérêts avec leur(s) projets(s). 
-* Vous limiter aux informations les plus pertinentes pour les stages que vous allez réaliser (e.g. Word n’est pas une technologie pertinente).
+    * Mentionner que vous êtes en train de réaliser une maîtrise professionnelle en informatique - IA. 
+    * Préciser les différents types de problèmes d’apprentissage automatique et/ou les domaines d’application dans le champ “intérêts” pour assurer les partenaires de l’adéquation de vos intérêts avec leur(s) projets(s). 
+    * Vous limiter aux informations les plus pertinentes pour les stages que vous allez réaliser (e.g. Word n’est pas une technologie pertinente).
 
 [Profil Professionnel]: https://monportail.ulaval.ca/emploisstages/profilprofessionnel/
-[prendre contact avec nous]: mailto:stages@iid.ulaval.ca?subject=Prise%20de%20contact%20avec%20[Nom%20de%20l%27entreprise]&body=Bonjour,%0D%0DJ%27aimerais%20être%20contacté%20pour%20un%20projet%20que%20je%20souhaite%20proposer%20pour%20un%20étudiant-stagiaire%20à%20la%20maîtrise%20professionnelle%20en%20informatique%20-%20intelligence%20artificielle.%20Voici%20une%20description%20succincte%20du%20projet%20:%0D-%20Titre%20:%20[Écrire%20un%20titre]%0D-%20Résumé%20:%20[Quelques%20phrases%20résumant%20le%20contexte%20et%20les%20objectifs%20du%20projet]%0D%0DMerci%20et%20bonne%20journée.
+[prendre contact avec nous]: mailto:stages@iid.ulaval.ca?subject=Prise%20de%20contact%20avec%20[Nom%20de%20l%27entreprise]&body=Bonjour,%0A%0AJ%27aimerais%20être%20contacté%20pour%20un%20projet%20que%20je%20souhaite%20proposer%20pour%20un%20étudiant-stagiaire%20à%20la%20maîtrise%20professionnelle%20en%20informatique%20-%20intelligence%20artificielle.%20Voici%20une%20description%20succincte%20du%20projet%20:%0A-%20Titre%20:%20[Écrire%20un%20titre]%0A-%20Résumé%20:%20[Quelques%20phrases%20résumant%20le%20contexte%20et%20les%20objectifs%20du%20projet]%0A%0AMerci%20et%20bonne%20journée.
+[Prenez contact avec notre équipe]: mailto:stages@iid.ulaval.ca?subject=Prise%20de%20contact%20avec%20[Nom%20de%20l%27entreprise]&body=Bonjour,%0A%0AJ%27aimerais%20être%20contacté%20pour%20un%20projet%20que%20je%20souhaite%20proposer%20pour%20un%20étudiant-stagiaire%20à%20la%20maîtrise%20professionnelle%20en%20informatique%20-%20intelligence%20artificielle.%20Voici%20une%20description%20succincte%20du%20projet%20:%0A-%20Titre%20:%20[Écrire%20un%20titre]%0A-%20Résumé%20:%20[Quelques%20phrases%20résumant%20le%20contexte%20et%20les%20objectifs%20du%20projet]%0A%0AMerci%20et%20bonne%20journée.
