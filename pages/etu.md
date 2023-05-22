@@ -6,7 +6,7 @@
 
 ## 1. Signifier son intérêt à partir en stage
 Chaque session, un courriel est envoyé sur la liste institutionnelle LEP-M-IFT-IIA-S20XX@listes.ulaval.ca qui parvient automatiquement à tous les étudiants inscrits à la MIIA. Ce courriel invite les étudiants à démontrer leur intérêt à partir en stage en soumettant leur candidature sur une offre de stage spéciale de l'IID afin de collecter d'un coup les 3 documents nécessaires : 
-1. Une copie du [Profil Professionnel] qui doit être préalablement rempli[^1] sur [MonPortail](https://monportail.ulaval.ca/emploisstages/profilprofessionnel/);
+1. Une copie du [Profil Professionnel] qui doit être préalablement rempli<sup>[^1]</sup> sur [MonPortail](https://monportail.ulaval.ca/emploisstages/profilprofessionnel/);
 2. Un [formulaire de consentement Mitacs](https://form.jotform.com/camillebesse/mitacs-stagiaire) (mot passe : 'miia') permettant à Mitacs de vous recenser dans ses statistiques, à publiciser votre nom sur leur site et vous engageant à accomplir le projet futur;
 3. Une copie non  officielle de votre relevé de notes.
 
