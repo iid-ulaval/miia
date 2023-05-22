@@ -2,10 +2,28 @@
 <br>
 <br>
 
-# Les différentes étapes du processus pour l'organisation
+# Les différentes étapes du processus 
+Le processus peut-être résumé en quelques points :
+| | |
+| ---- | ----- |
+| Jusqu’à Date 1 | Soumission du projet sur le site du SDP-ULaval et évaluation de la portée et de la faisabilité avec un professionnel de l’IID au besoin. |
+| Date 1 | Ouverture des offres aux étudiants et réception des CVs des étudiants prêts à partir |
+| Jusqu’à Date 2 | Entrevues et sélection des préférences et confirmation de celui-ci sur votre page de gestion de stage du SDP |
+| Date 2+ | “Repêchage” des étudiants : <ul><li> Jour 1 : Les étudiant.e.s qui ont été choisi.e.s comme #1 par au moins un partenaire reçoivent la ou les proposition(s) de stage, ils ont 24h pour en accepter une seule (ou les refuser toutes)</li><li> Jour 2 : Si votre offre a été refusée, nous la proposons à votre choix #2 </li><li> Et ce, jusqu’à ce que tout le monde soit apparié (idéalement). </li></ul>|
+| Jusqu’à Date 3 | Rédaction de la demande de subvention par l’IID avec votre collaboration |
+| Jusqu’à Date 4 | <ul><li>Soumission au comité scientifique Mitacs </li><li>Soumission au CERUL si nécessaire</li><li>Puis soumission à l’Université pour signature et facturation </li>|
+| Date 5 | Début du stage |
+| | |
 
-
-
+Avec les dates qui varient selon les sessions de départ en stage : 
+| Dates | Été | Automne | Hiver |
+| ---- | ---- | ---- | ---- |
+| Date 1 | Dernier lundi d'avril | Dernier lundi de septembre | Dernier lundi de janvier|
+| Date 2 | 3 semaines après Date 1 | | |
+| Date 3 | | | |
+| Date 4 | | | |
+| Date 5 | | | |
+| | | | |
 
 nous allons nous appuyer sur la plateforme du [Service de Développement Professionnel de l’Université Laval (SDP)](https://www.sdp.ulaval.ca/) pour faciliter l’appariement entre vous et les étudiants. Nous vous invitons donc à proposer un projet de stage via [leur plateforme](https://www.sdp.ulaval.ca/employeurs/afficher/stage) en spécifiant bien les informations suivantes : 
 
@@ -20,22 +38,6 @@ Une fois l’appariement réalisé nous reprendrons contact avec vous pour préc
 
 Toutes les informations sur le programme et le financement sont disponibles à l’adresse suivante: https://iid.ulaval.ca/miia. 
 
-Le processus peut-être résumé en quelques points :
-
-| | |
-| ---- | ----- |
-| Jusqu’au 24/04/2023 | Soumission du projet sur le site du SDP-ULaval et évaluation de la portée et de la faisabilité avec un professionnel de l’IID au besoin. |
-| 24/04/2023 | Ouverture des offres aux étudiants et réception des CVs des étudiants prêts à partir |
-| Jusqu’au 14/05/2023 | Entrevues et sélection des préférences et confirmation de celui-ci sur votre page de gestion de stage du SDP |
-| Jusqu’au 19/05/2023 | “Repêchage” des étudiants : <ul>
-<li> Jour 1 : Les étudiant.e.s qui ont été choisi.e.s comme #1 par au moins un partenaire reçoivent la ou les proposition(s) de stage, ils ont 24h pour en accepter une seule (ou les refuser toutes)</li>
-<li> Jour 2 : Si votre offre a été refusée, nous la proposons à votre choix #2 </li>
-<li> Et ce, jusqu’à ce que tout le monde soit apparié (idéalement). </li></ul>|
-| Jusqu’au 15/06/2023 | Rédaction de la demande de subvention par l’IID avec votre collaboration |
-| Jusqu’au 15/07/2023 | Soumission au comité scientifique Mitacs
-Soumission au CERUL si nécessaire
-Puis soumission à l’Université pour signature et facturation |
-| 18/09/2023 | Début du stage |
 
 Veuillez nous contacter par courriel à stages@iid.ulaval.ca si vous avez des questions complémentaires et n’hésitez pas à faire suivre le courriel à toute personne qui pourrait être intéressée à recevoir des stagiaires de la maîtrise professionnelle en informatique - IA.
 
