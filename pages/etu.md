@@ -41,7 +41,11 @@ Votre stage se déroulera sur une période de deux sessions consécutives. Duran
 Vous n'irez en milieu de staque que 26 semaines sur les 32 que composent deux sessions. les deux premières semaines de la session 1 sont consacrées aux lectures scientifiques préliminaires à votre projet et à votre intégration à votre milieu de stage. Les dernières semaines seront plus consacrées à la finalisation de votre rapport de stage et à la présentation finale de vos résultats. Plus de détails sur les évaluations vous seront expliqués lors de la première séance du premier cours de la session 1. 
 
 
-[^1]: Assurez-vous de :
+---
+
+
+
+[^1]: Dans votre [Profil Professionnel], assurez-vous de :
     * Mentionner que vous êtes en train de réaliser une maîtrise professionnelle en informatique - IA. 
     * Préciser les différents types de problèmes d’apprentissage automatique et/ou les domaines d’application dans le champ “intérêts” pour assurer les partenaires de l’adéquation de vos intérêts avec leur(s) projets(s). 
     * Vous limiter aux informations les plus pertinentes pour les stages que vous allez réaliser (e.g. Word n’est pas une technologie pertinente).

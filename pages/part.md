@@ -22,45 +22,20 @@ Toutes les informations sur le programme et le financement sont disponibles à l
 
 Le processus peut-être résumé en quelques points :
 
-Jusqu’au 24/04/2023
-	
-
-Soumission du projet sur le site du SDP-ULaval et évaluation de la portée et de la faisabilité avec un professionnel de l’IID au besoin. 
-
-24/04/2023
-	
-
-Ouverture des offres aux étudiants et réception des CVs des étudiants prêts à partir
-
-Jusqu’au 14/05/2023
-	
-
-Entrevues et sélection des préférences et confirmation de celui-ci sur votre page de gestion de stage du SDP
-
-Jusqu’au 19/05/2023
-	
-
-“Repêchage” des étudiants : 
-- Jour 1 : Les étudiant.e.s qui ont été choisi.e.s comme #1 par au moins un partenaire reçoivent la ou les proposition(s) de stage, ils ont 24h pour en accepter une seule (ou les refuser toutes)
-- Jour 2 : Si votre offre a été refusée, nous la proposons à votre choix #2 
-- Et ce, jusqu’à ce que tout le monde soit apparié (idéalement).
-
-Jusqu’au 15/06/2023
-	
-
-Rédaction de la demande de subvention par l’IID avec votre collaboration
-
-Jusqu’au 15/07/2023
-	
-
-Soumission au comité scientifique Mitacs
+| | |
+| ---- | ----- |
+| Jusqu’au 24/04/2023 | Soumission du projet sur le site du SDP-ULaval et évaluation de la portée et de la faisabilité avec un professionnel de l’IID au besoin. |
+| 24/04/2023 | Ouverture des offres aux étudiants et réception des CVs des étudiants prêts à partir |
+| Jusqu’au 14/05/2023 | Entrevues et sélection des préférences et confirmation de celui-ci sur votre page de gestion de stage du SDP |
+| Jusqu’au 19/05/2023 | “Repêchage” des étudiants : <ul>
+<li> Jour 1 : Les étudiant.e.s qui ont été choisi.e.s comme #1 par au moins un partenaire reçoivent la ou les proposition(s) de stage, ils ont 24h pour en accepter une seule (ou les refuser toutes)</li>
+<li> Jour 2 : Si votre offre a été refusée, nous la proposons à votre choix #2 </li>
+<li> Et ce, jusqu’à ce que tout le monde soit apparié (idéalement). </li></ul>|
+| Jusqu’au 15/06/2023 | Rédaction de la demande de subvention par l’IID avec votre collaboration |
+| Jusqu’au 15/07/2023 | Soumission au comité scientifique Mitacs
 Soumission au CERUL si nécessaire
-Puis soumission à l’Université pour signature et facturation
-
-18/09/2023
-	
-
-Début du stage
+Puis soumission à l’Université pour signature et facturation |
+| 18/09/2023 | Début du stage |
 
 Veuillez nous contacter par courriel à stages@iid.ulaval.ca si vous avez des questions complémentaires et n’hésitez pas à faire suivre le courriel à toute personne qui pourrait être intéressée à recevoir des stagiaires de la maîtrise professionnelle en informatique - IA.
 
