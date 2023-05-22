@@ -41,8 +41,8 @@ Jusqu’au 19/05/2023
 	
 
 “Repêchage” des étudiants : 
-- Le 15 mai : Les étudiants qui ont été choisis comme #1 par au moins un partenaire reçoivent la ou les proposition(s) de stage, ils ont 24h pour en accepter une seule (ou les refuser toutes)
-- Le 16 Mai : Si votre offre a été refusée, nous la proposons à votre choix #2 
+- Jour 1 : Les étudiant.e.s qui ont été choisi.e.s comme #1 par au moins un partenaire reçoivent la ou les proposition(s) de stage, ils ont 24h pour en accepter une seule (ou les refuser toutes)
+- Jour 2 : Si votre offre a été refusée, nous la proposons à votre choix #2 
 - Et ce, jusqu’à ce que tout le monde soit apparié (idéalement).
 
 Jusqu’au 15/06/2023
