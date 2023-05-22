@@ -12,7 +12,7 @@ Le premier indice pour détecter l’existence d’un risque de conflit d’int�
 
 Si vous constatez qu’un tel lien existe et qu’il peut être considéré par une personne raisonnable, à tort ou à raison, comme étant susceptible d’influencer vos décisions dans le cadre de votre projet alors il faut procéder à une évaluation, en toute confidentialité et avec un membre de l'accompagnement de l'IID, du risque que ce lien puisse mener à un conflit avec vos obligations académiques.
 
-### Conflit d’intérêts 
+## Conflit d’intérêts 
 
 Lorsqu’un intérêt personnel, professionnel, matériel ou financier d’une personne :
 * pourrait raisonnablement être perçu par un tiers comme existant, sans que cela soit pour autant avéré, il est **apparent**;
@@ -28,15 +28,18 @@ Lorsqu’un intérêt personnel, professionnel, matériel ou financier d’une p
 Les contraintes de temps, les préférences quant à l’approche scientifique ou pratique, les croyances et les valeurs, la compétitivité, le désir de réussir et d’être reconnu exercent souvent des pressions inévitables sur les personnes concernées. Ces pressions peuvent mener à des formes particulières de conflits d’intérêts, par exemple : 
 
 
-# A CLARIFIER DANS UN CONTEXTE DE STAGE ! : 
+# Autres types de conflits possibles : 
 
 ### Conflit de loyauté
-Il y a conflit de loyauté lorsqu’une actrice ou un acteur en recherche exerce des activités professionnelles externes, rémunérées ou non, liées à la recherche ou à la création qui l’empêchent de remplir adéquatement ses responsabilités d’enseignement, de recherche ou de création universitaires. 
+Il y a conflit de loyauté potentiel lorsqu’un.e étudiant.e est (ou a été, ou va être) employé.e du milieu dans lequel le stage va être réalisé et pourrait compromettre la réalisation adéquate de ses responsabilités de création universitaire.
 
 ### Conflit d’engagement
-Le conflit d’engagement oppose des obligations associées à des activités effectuées à des fins personnelles et celles associées à ses activités universitaires comme, par exemple, quand une actrice ou un acteur en recherche fait appel au personnel ou à des services de l’Université, ou utilise des ressources matérielles ou financières institutionnelles pour ses projets personnels, sans en avoir obtenu l’autorisation officielle.
+Le conflit d’engagement oppose des obligations associées à des activités effectuées à des fins personnelles et celles associées à ses activités universitaires comme, par exemple, quand un.e étudiant.e utilise les services ou du matériel de l'université pour des fins personnelles ou de son milieu de stage, sans en avoir obtenu l'autorisation préalable. 
 
 ### Conflit de rôle
-Le conflit de rôle survient lorsqu’une actrice ou un acteur en recherche doit intervenir auprès de tiers vis-à-vis desquels elle ou il cumule plus d’un rôle dont les finalités respectives sont conflictuelles et comportent un risque de leur porter préjudice (cumuler auprès d’un tiers le rôle de chercheur et celui d’intervenant, clinicien, dirigeant, ou conseiller, par exemple). 
+Le conflit de rôle survient lorsqu’un.e étudiant.e doit intervenir auprès de personnes vis-à-vis desquelles elle ou il cumule plus d’un rôle dont les finalités respectives sont conflictuelles et comportent un risque de leur porter préjudice (cumuler auprès d’un tiers le rôle d'employé subalterne et de stagiaire universitaire, par exemple). 
 
-
+## Marche à suivre 
+1. Le constater
+2. Évaluer les risques potentiels dans l'organisation du projet
+2. Mettre en place une communication rigoureuse desdits risques, tant aux parties concernées qu'aux encadrants desdites personnes.
