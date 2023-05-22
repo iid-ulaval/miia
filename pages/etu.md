@@ -19,7 +19,7 @@ Cependant il se peut que l'offre ne vous convienne pas où que vous souhaitiez l
 
 ### Je veux faire mon stage chez mon employeur actuel
 
-C'est possible ! Il faut juste que votre employeur et vous lisiez l'information sur les [conflits potentiels](./conflict.md) et remplissez les documents correspondants. Il faut également que le stage réponde aux critères ci-dessus. Dites à votre employeur de [prendre contact avec nous](`mailto:stages@iid.ulaval.ca?subject=Prise de contact avec [Nom de l'entreprise]&body=Bonjour,%0D%0DJ'aimerais être contacté pour un projet que je souhaite proposer pour un étudiant-stagiaire à la maîtrise professionnelle en informatique - intelligence artificielle. Voici une description succincte du projet :%0D- Titre : [Écrire un titre]%0D- Résumé : [Quelques phrases résumant le contexte et les objectifs du projet]%0D%0DMerci et bonne journée.`) pour plus de détails.
+C'est possible ! Il faut juste que votre employeur et vous lisiez l'information sur les [conflits potentiels](./conflict.md) et remplissez les documents correspondants. Il faut également que le stage réponde aux critères ci-dessus. Dites à votre employeur de [prendre contact avec nous] pour plus de détails.
 
 ## 3. Choisir son milieu de stage
 
@@ -36,7 +36,9 @@ Vous aurez alors quelques semaines (généralement 3) pour rencontrer tous les m
 
 ## Pendant le stage
 
-Bla 
+Votre stage se déroulera sur une période de deux sessions consécutives. Durant la première session de stage, vous suivrez un cours de méthodologie de recherche en science des données les vendredis à 13h. Vous aurez également des scrums scientifiques les vendredis matin avec notre équipe de professionnels et d'autres étudiants pour bénéficier de leurs expériences et partager la votre. 
+
+Vous n'irez en milieu de staque que 26 semaines sur les 32 que composent deux sessions. les deux premières semaines de la session 1 sont consacrées aux lectures scientifiques préliminaires à votre projet et à votre intégration à votre milieu de stage. Les dernières semaines seront plus consacrées à la finalisation de votre rapport de stage et à la présentation finale de vos résultats. Plus de détails sur les évaluations vous seront expliqués lors de la première séance du premier cours de la session 1. 
 
 
 [^1]: Assurez-vous de :
@@ -45,5 +47,4 @@ Bla
 * Vous limiter aux informations les plus pertinentes pour les stages que vous allez réaliser (e.g. Word n’est pas une technologie pertinente).
 
 [Profil Professionnel]: https://monportail.ulaval.ca/emploisstages/profilprofessionnel/
-
-
+[prendre contact avec nous]: mailto:stages@iid.ulaval.ca?subject=Prise%20de%20contact%20avec%20[Nom%20de%20l%27entreprise]&body=Bonjour,%0D%0DJ%27aimerais%20être%20contacté%20pour%20un%20projet%20que%20je%20souhaite%20proposer%20pour%20un%20étudiant-stagiaire%20à%20la%20maîtrise%20professionnelle%20en%20informatique%20-%20intelligence%20artificielle.%20Voici%20une%20description%20succincte%20du%20projet%20:%0D-%20Titre%20:%20[Écrire%20un%20titre]%0D-%20Résumé%20:%20[Quelques%20phrases%20résumant%20le%20contexte%20et%20les%20objectifs%20du%20projet]%0D%0DMerci%20et%20bonne%20journée.
