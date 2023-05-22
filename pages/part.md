@@ -3,6 +3,7 @@
 <br>
 
 # Les différentes étapes du processus 
+
 Le processus peut-être résumé en quelques points :
 | | |
 | ---- | ----- |
