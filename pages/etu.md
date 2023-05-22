@@ -1,4 +1,7 @@
 
+<br>
+<br>
+
 # Les différentes étapes du processus pour l'étudiant.e
 
 ## 1. Signifier son intérêt à partir en stage
@@ -33,10 +36,10 @@ Vous aurez alors quelques semaines (généralement 3) pour rencontrer tous les m
 
 ## Pendant le stage
 
+Bla 
 
 
-
-[^1]Assurez-vous de :
+[^1]: Assurez-vous de :
 * Mentionner que vous êtes en train de réaliser une maîtrise professionnelle en informatique - IA. 
 * Préciser les différents types de problèmes d’apprentissage automatique et/ou les domaines d’application dans le champ “intérêts” pour assurer les partenaires de l’adéquation de vos intérêts avec leur(s) projets(s). 
 * Vous limiter aux informations les plus pertinentes pour les stages que vous allez réaliser (e.g. Word n’est pas une technologie pertinente).
