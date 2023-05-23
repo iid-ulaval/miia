@@ -49,6 +49,8 @@
     <td>Début du stage</td>
   </tr></table></p>
 
+<br>
+
 <p>
 Avec les dates qui varient selon les sessions de départ en stage : 
 <table>
