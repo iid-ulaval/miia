@@ -15,9 +15,8 @@
 
 ## TL:DR;
 
-<br><p></p>
-
-<p>Le processus peut-être résumé en quelques points :<table>
+<p>Le processus peut-être résumé en quelques points :
+<table>
 <tr><th></th><th></th></tr>
   <tr>
     <td>Jusqu’à Date 1</td>
@@ -42,12 +41,15 @@
   </tr>
   <tr>
     <td>Jusqu’à Date 4</td>
-    <td><ul><li>Soumission au comité scientifique Mitacs </li><li>Soumission au CERUL si nécessaire</li><li>Puis soumission à l’Université pour signature et facturation </li></td>
+    <td><ul><li>Soumission au comité scientifique Mitacs </li><li>Soumission au CERUL si nécessaire</li><li>Puis soumission à l’Université pour signature et facturation </li></ul>
+    </td>
   </tr>
   <tr>
     <td>Date 5</td>
     <td>Début du stage</td>
-  </tr></table></p>
+  </tr>
+  </table>
+  </p>
 
 <br>
 
