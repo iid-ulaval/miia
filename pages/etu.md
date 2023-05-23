@@ -4,6 +4,12 @@
 
 # Les différentes étapes du processus pour l'étudiant.e
 
+1. [Signifier son intérêt à partir en stage](#1-signifier-son-intérêt-à-partir-en-stage)
+2. [Trouver ou proposer un stage](#2-trouverproposer-un-stage)
+3. [Choisir son milieu de stage](#3-choisir-son-milieu-de-stage)
+4. [Faire son stage](#4-faire-son-stage)
+
+
 ## 1. Signifier son intérêt à partir en stage
 Chaque session, un courriel est envoyé sur la liste institutionnelle LEP-M-IFT-IIA-S20XX@listes.ulaval.ca qui parvient automatiquement à tous les étudiants inscrits à la MIIA. Ce courriel invite les étudiants à démontrer leur intérêt à partir en stage en soumettant leur candidature sur une offre de stage spéciale de l'IID afin de collecter d'un coup les 3 documents nécessaires : 
 1. Une copie du [Profil Professionnel] qui doit être préalablement rempli <sup>[[^1]]</sup> sur [MonPortail](https://monportail.ulaval.ca/emploisstages/profilprofessionnel/);
@@ -36,7 +42,7 @@ Vous aurez alors quelques semaines (généralement 3) pour rencontrer tous les m
 Note : Il se peut que vous soyez le choix #1 d'une entreprise qui aura mis ses préférences plus tardivement dans le processus. Ne vous fiez pas (complètement) à la date de réception pour tenter de deviner votrer rang. 
 
 
-## Pendant le stage
+## 4. Faire son stage
 
 Votre stage se déroulera sur une période de deux sessions consécutives. Durant la première session de stage, vous suivrez un cours de méthodologie de recherche en science des données les vendredis à 13h. Vous aurez également des scrums scientifiques les vendredis matin avec notre équipe de professionnels et d'autres étudiants pour bénéficier de leurs expériences et partager la votre. 
 
