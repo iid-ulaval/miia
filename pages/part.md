@@ -124,7 +124,7 @@ Vous pouvez proposer directement un projet sur la plateforme du [Service de Dév
 
 Pensez à bien spécifier : 
 - Offre de stage pour le 2e cycle en Intelligence Artificielle
-- Dates de l'offre jusqu'à Date 1
+- Dates de l'offre jusqu'à <span class="date1">Date 1</span>
 
 Préciser dans le contenu de l'offre : 
 1. Le contexte et la problématique du projet
@@ -141,7 +141,7 @@ Vous recevrez alors sur votre offre les candidatures d'étudiant.e.s de la MIIA 
 
 ### Le repêchage
 Le repêchage se base sur un algorithme qui se veut équitable pour les entreprises et les étudiant.e.s : 
- - Jour 1 (Date 2): Les étudiant.e.s qui ont été choisi.e.s comme #1 par au moins un partenaire reçoivent la ou les proposition(s) de stage, ils ont 24h pour en accepter une seule (ou les refuser toutes)
+ - Jour 1 (<span class="date2">Date 2</span>): Les étudiant.e.s qui ont été choisi.e.s comme #1 par au moins un partenaire reçoivent la ou les proposition(s) de stage, ils ont 24h pour en accepter une seule (ou les refuser toutes)
  - Jour 2 : Si votre offre a été refusée, nous la proposons à votre choix #2 
  - Et ce, jusqu’à ce que tout le monde soit apparié (idéalement).
 
@@ -165,7 +165,7 @@ Si jamais vous envisagiez un autre mode de financement, l'accompagnement scienti
 
 Le stage se déroulera sur une période de deux sessions consécutives. Durant la première session de stage, l'étudiant.e suivra un cours de méthodologie de recherche en science des données les vendredis à 13h. Un scrums scientifiques lui sera donné également les vendredis matin avec notre équipe de professionnels et d'autres étudiants pour bénéficier de leurs expériences et partager la sienne. 
 
-L'étudiant.e n'ira en milieu de staque que 26 semaines sur les 32 que composent les deux sessions. les deux premières semaines de la session 1 sont consacrées aux lectures scientifiques préliminaires au projet et à l'intégration de l'étudian.e. à votre organisation. Les dernières semaines seront plus consacrées à la finalisation du rapport de stage et à la présentation finale des résultats. 
+L'étudiant.e n'ira en milieu de staque que 26 semaines sur les 32 que composent les deux sessions. Les deux premières semaines de la session 1 sont consacrées aux lectures scientifiques préliminaires au projet et à l'intégration de l'étudiant.e à votre organisation avant le début du stage (<span class="date5">Date 5</span>). Les dernières semaines seront plus consacrées à la finalisation du rapport de stage et à la présentation finale des résultats. 
 
 Il est possible de [prendre contact avec nous](mailto:stages@iid.ulaval.ca) à tout moment pour discuter de l'avancement du projet et s'assurer de l'enlignement de celui-ci avec les objectifs d'affaires de votre organisation.
 
