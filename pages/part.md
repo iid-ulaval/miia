@@ -17,7 +17,6 @@
 
 <p>Le processus peut-être résumé en quelques points :
 <table>
-<tr><th></th><th></th></tr>
   <tr>
     <td>Jusqu’à Date 1</td>
     <td>Soumission du projet sur la plateforme du <a href="https://www.sdp.ulaval.ca/employeurs/afficher/stage">Service de Développement Professionnel de l’Université Laval (SDP)</a> et évaluation de la portée et de la faisabilité avec un professionnel de l’IID au besoin. <br> Spécifier : <ul><li>Offre de stage pour le 2e cycle en Intelligence Artificielle</li><li>Dates de l'offre jusqu'à Date 1</li></ul>Préciser dans le contenu de l'offre : <ol><li>Le contexte et la problématique du projet</li><li>Les objectifs précis</li><li>Les données qui seront utilisées</li></ol>
@@ -33,7 +32,7 @@
   </tr>
   <tr>
     <td>Date 2+</td>
-    <td><a href="#le-repechage">Repêchage</a> des étudiants : <ul><li> Jour 1 : Les étudiant.e.s qui ont été choisi.e.s comme #1 par au moins un partenaire reçoivent la ou les proposition(s) de stage, ils ont 24h pour en accepter une seule (ou les refuser toutes)</li><li> Jour 2 : Si votre offre a été refusée, nous la proposons à votre choix #2 </li><li> Et ce, jusqu’à ce que tout le monde soit apparié (idéalement). </li></ul></td>
+    <td><a href="#le-repêchage">Repêchage</a> des étudiants : <ul><li> Jour 1 : Les étudiant.e.s qui ont été choisi.e.s comme #1 par au moins un partenaire reçoivent la ou les proposition(s) de stage, ils ont 24h pour en accepter une seule (ou les refuser toutes)</li><li> Jour 2 : Si votre offre a été refusée, nous la proposons à votre choix #2 </li><li> Et ce, jusqu’à ce que tout le monde soit apparié (idéalement). </li></ul></td>
   </tr>
   <tr>
     <td>Jusqu’à Date 3</td>
@@ -150,11 +149,17 @@ Si jamais vous envisagiez un autre mode de financement, l'accompagnement scienti
 
 ## Avant d'accueillir l'étudiant.e
 
-WIP
+**Assurez vous que les données sont disponibles et accessibles à l'étudiant.e**
 
 ## Pendant le stage
 
-WIP
+Le stage se déroulera sur une période de deux sessions consécutives. Durant la première session de stage, l'étudiant.e suivra un cours de méthodologie de recherche en science des données les vendredis à 13h. Un scrums scientifiques lui sera donné également les vendredis matin avec notre équipe de professionnels et d'autres étudiants pour bénéficier de leurs expériences et partager la sienne. 
+
+L'étudiant.e n'ira en milieu de staque que 26 semaines sur les 32 que composent les deux sessions. les deux premières semaines de la session 1 sont consacrées aux lectures scientifiques préliminaires au projet et à l'intégration de l'étudian.e. à votre organisation. Les dernières semaines seront plus consacrées à la finalisation du rapport de stage et à la présentation finale des résultats. 
+
+Il est possible de [prendre contact avec nous] à tout moment pour discuter de l'avancement du projet et s'assurer de l'enlignement de celui-ci avec les objectifs d'affaires de votre organisation.
+
+
 
 [Prenez contact avec nous]:mailto:stages@iid.ulaval.ca?subject=Prise%20de%20contact%20avec%20[Nom%20de%20l%27entreprise]&body=Bonjour,%0A%0AJ%27aimerais%20être%20contacté%20pour%20un%20projet%20que%20je%20souhaite%20proposer%20pour%20un%20étudiant-stagiaire%20à%20la%20maîtrise%20professionnelle%20en%20informatique%20-%20intelligence%20artificielle.%20Voici%20une%20description%20succincte%20du%20projet%20:%0A-%20Titre%20:%20[Écrire%20un%20titre]%0A-%20Résumé%20:%20[Quelques%20phrases%20résumant%20le%20contexte%20et%20les%20objectifs%20du%20projet]%0A%0AMerci%20et%20bonne%20journée.
 [prendre contact avec nous]: mailto:stages@iid.ulaval.ca?subject=Prise%20de%20contact%20avec%20[Nom%20de%20l%27entreprise]&body=Bonjour,%0A%0AJ%27aimerais%20être%20contacté%20pour%20un%20projet%20que%20je%20souhaite%20proposer%20pour%20un%20étudiant-stagiaire%20à%20la%20maîtrise%20professionnelle%20en%20informatique%20-%20intelligence%20artificielle.%20Voici%20une%20description%20succincte%20du%20projet%20:%0A-%20Titre%20:%20[Écrire%20un%20titre]%0A-%20Résumé%20:%20[Quelques%20phrases%20résumant%20le%20contexte%20et%20les%20objectifs%20du%20projet]%0A%0AMerci%20et%20bonne%20journée.
