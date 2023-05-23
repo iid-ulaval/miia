@@ -127,7 +127,7 @@ Et si vous avez plusieurs projets, déposez une offre par projet.
 
 Nous validerons le projet en partenariat avec le SDP et nous vous contacterons au besoin pour des précisions.
 
-Vous recevrez alors des candidatures d'étudiant.e.s de la MIIA seulement sur votre offre qui seront éligible à la subvention Mitacs. Vous aurez alors quelques semaines (généralement 3) pour rencontrer tous les étudiant.e.s qui sont intéressé.e.s par votre projet. Une fois les entrevues effectuées et votre ordre de préférence établi, nous entrerons en mode [repêchage !](#le-repêchage)
+Vous recevrez alors seulement des candidatures d'étudiant.e.s de la MIIA qui seront éligible à la subvention Mitacs. Vous aurez alors quelques semaines (généralement 3) pour rencontrer tous les étudiant.e.s qui sont intéressé.e.s par votre projet. Une fois les entrevues effectuées et votre ordre de préférence établi, nous entrerons en mode [repêchage !](#le-repêchage)
 
 ### Le repêchage
 Le repêchage se base sur un algorithme qui se veut équitable pour les entreprises et les étudiant.e.s : 
