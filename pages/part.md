@@ -15,7 +15,7 @@
 
 ## TL:DR;
 
-<p>Le processus peut-être résumé en quelques points :
+<p>Le processus peut être résumé en quelques points :
 <table>
   <tr>
     <td>Jusqu’à Date 1</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>Jusqu’à Date 4</td>
-    <td><ul><li>Soumission au comité scientifique Mitacs </li><li>Soumission au CERUL si nécessaire</li><li>Puis soumission à l’Université pour signature et facturation </li></ul>
+    <td><ul><li>Soumission au comité scientifique Mitacs </li><li>Soumission au CERUL si nécessaire</li><li>Puis, soumission à l’Université pour signature et facturation </li></ul>
     </td>
   </tr>
   <tr>
@@ -106,7 +106,7 @@ Avec les dates qui varient selon les sessions de départ en stage :
 
 Vous pouvez [prendre contact avec nous], nous avons une équipe de professionnels qui vous aideront à analyser vos besoins pour produire un projet de stage adéquat tant pour votre organisation que pour les exigences académiques du parcours des étudiant.e.s.
 
-Même si vous êtes pas certains, il nous fera plaisir de voir avec vous vos besoins et d'évaluer les possibilités. 
+Même si vous n'êtes pas certains, il nous fera plaisir de voir avec vous vos besoins et d'évaluer les possibilités. 
 
 ## 2. Proposer un projet de stage, recruter un.e étudiant.e
 
@@ -127,7 +127,7 @@ Et si vous avez plusieurs projets, déposez une offre par projet.
 
 Nous validerons le projet en partenariat avec le SDP et nous vous contacterons au besoin pour des précisions.
 
-Vous recevrez alors des candidatures d'étudiant.e.s de la MIIA seulement sur votre offre qui seront éligible à la subvention Mitacs. Vous aurez alors quelques semaines (généralement 3) pour rencontrer tous les étudiant.e.s qui sont intéressé.e.s par votre projet. Une fois les entrevues effectuées et votre ordre de préférence établi, nous rentreront en mode [repêchage !](#le-repêchage)
+Vous recevrez alors des candidatures d'étudiant.e.s de la MIIA seulement sur votre offre qui seront éligible à la subvention Mitacs. Vous aurez alors quelques semaines (généralement 3) pour rencontrer tous les étudiant.e.s qui sont intéressé.e.s par votre projet. Une fois les entrevues effectuées et votre ordre de préférence établi, nous entrerons en mode [repêchage !](#le-repêchage)
 
 ### Le repêchage
 Le repêchage se base sur un algorithme qui se veut équitable pour les entreprises et les étudiant.e.s : 
@@ -137,13 +137,13 @@ Le repêchage se base sur un algorithme qui se veut équitable pour les entrepri
 
 ### Je veux proposer le projet à un.e étudiant.e en particulier
 
-Si vous avez déjà un.e étudiant.e à qui vous voulez proposer le projet, [prenez contact avec notre équipe] en mettant l'étudiant.e concerné.e en CC. nous partirons le processus directement à partir de l'étape de rédaction de la demande de subvention.
+Si vous avez déjà un.e étudiant.e à qui vous voulez proposer le projet, [prenez contact avec notre équipe] en mettant l'étudiant.e concerné.e en CC. Nous partirons le processus directement à partir de l'étape de rédaction de la demande de subvention.
 
 ### Je veux proposer le projet à un.e employé.e
 
-C'est possible ! Il faut juste que votre employé.e et vous lisiez l'information sur les [conflits potentiels](./conflict.md) et remplissez les documents correspondants. Il faut également que le stage réponde aux exigences académiques du parcours MIIA. [Prenez contact avec nous] pour plus de détails.
+C'est possible ! Il faut seulement que votre employé.e et vous lisiez l'information sur les [conflits potentiels](./conflict.md) et remplissez les documents correspondants. Il faut également que le stage réponde aux exigences académiques du parcours MIIA. [Prenez contact avec nous] pour plus de détails.
 
-Prenez en compte également que nous privilégions les financements Mitacs pour les subventions de stage, ce mode de financement permet de payer également l'accompagnement de votre stage par une équipe de professionnels hautement qualifiés en IA qui ont déjà accompagnés plus de 100 stages.
+Prenez en compte également que nous privilégions les financements Mitacs pour les subventions de stage, ce mode de financement permet de payer également l'accompagnement de votre stage par une équipe de professionnels hautement qualifiés en IA qui ont déjà accompagné plus de 100 stages.
 
 Si jamais vous envisagiez un autre mode de financement, l'accompagnement scientifique de votre employé serait alors à payer séparément (~13000$) pour garantir toutes les chances de succès de votre projet. 
 
@@ -153,11 +153,11 @@ Si jamais vous envisagiez un autre mode de financement, l'accompagnement scienti
 
 ## 4. Pendant le stage
 
-Le stage se déroulera sur une période de deux sessions consécutives. Durant la première session de stage, l'étudiant.e suivra un cours de méthodologie de recherche en science des données les vendredis à 13h. Un scrums scientifiques lui sera donné également les vendredis matin avec notre équipe de professionnels et d'autres étudiants pour bénéficier de leurs expériences et partager la sienne. 
+Le stage se déroulera sur une période de deux sessions consécutives. Durant la première session de stage, l'étudiant.e suivra un cours de méthodologie de recherche en science des données les vendredis à 13h. Un scrum scientifique lui sera donné également les vendredis matin avec notre équipe de professionnels et d'autres étudiants pour bénéficier de leurs expériences et partager la sienne. 
 
-L'étudiant.e n'ira en milieu de staque que 26 semaines sur les 32 que composent les deux sessions. les deux premières semaines de la session 1 sont consacrées aux lectures scientifiques préliminaires au projet et à l'intégration de l'étudian.e. à votre organisation. Les dernières semaines seront plus consacrées à la finalisation du rapport de stage et à la présentation finale des résultats. 
+L'étudiant.e n'ira en milieu de stage que 26 semaines sur les 32 que composent les deux sessions. Les deux premières semaines de la session 1 sont consacrées aux lectures scientifiques préliminaires au projet et à l'intégration de l'étudiant.e à votre organisation. Les dernières semaines seront consacrées à la finalisation du rapport de stage et à la présentation finale des résultats. 
 
-Il est possible de [prendre contact avec nous](mailto:stages@iid.ulaval.ca) à tout moment pour discuter de l'avancement du projet et s'assurer de l'enlignement de celui-ci avec les objectifs d'affaires de votre organisation.
+Il est possible de [prendre contact avec nous](mailto:stages@iid.ulaval.ca) à tout moment pour discuter de l'avancement du projet et s'assurer de l'alignement de celui-ci avec les objectifs d'affaires de votre organisation.
 
 
 

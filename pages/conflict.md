@@ -2,7 +2,7 @@
 
 # Gestion des conflits d'intérêts et de loyauté
 
-Liens rapide pour déclarations: 
+Liens rapides pour déclarations: 
 * [Formulaire Mitacs de déclaration de conflit](https://form.jotform.com/team/230794262759063/ci-mitacs)
 * [Entente Organisme - Étudiant - IID de résolution de l'apparence de conflit](#top) /*TODO*/
 
