@@ -6,10 +6,10 @@
 
 - [TL:DR;](#tldr)
 - [Détails du processus](#détails-du-processus)
-    - [Avant de proposer un projet](#avant-de-proposer-un-projet)
-    - [Proposer un projet, recruter](#proposer-un-projet-de-stage-recruter-une-étudiante)
-    - [Avant d'accueillir l'étudiant.e](#avant-daccueillir-létudiante)
-    - [Pendant le stage](#pendant-le-stage)
+    1. [Avant de proposer un projet](#1-avant-de-proposer-un-projet)
+    2. [Proposer un projet, recruter](#2-proposer-un-projet-de-stage-recruter-une-étudiante)
+    3. [Avant d'accueillir l'étudiant.e](#3-avant-daccueillir-létudiante)
+    4. [Pendant le stage](#4-pendant-le-stage)
 
 
 
@@ -102,13 +102,13 @@ Avec les dates qui varient selon les sessions de départ en stage :
 
 # Détails du processus
 
-## Avant de proposer un projet
+## 1. Avant de proposer un projet
 
 Vous pouvez [prendre contact avec nous], nous avons une équipe de professionnels qui vous aideront à analyser vos besoins pour produire un projet de stage adéquat tant pour votre organisation que pour les exigences académiques du parcours des étudiant.e.s.
 
 Même si vous êtes pas certains, il nous fera plaisir de voir avec vous vos besoins et d'évaluer les possibilités. 
 
-## Proposer un projet de stage, recruter un.e étudiant.e
+## 2. Proposer un projet de stage, recruter un.e étudiant.e
 
 Vous pouvez proposer directement un projet sur la plateforme du [Service de Développement Professionnel de l’Université Laval (SDP)](https://www.sdp.ulaval.ca/employeurs/afficher/stage). 
 
@@ -147,17 +147,17 @@ Prenez en compte également que nous privilégions les financements Mitacs pour 
 
 Si jamais vous envisagiez un autre mode de financement, l'accompagnement scientifique de votre employé serait alors à payer séparément (~13000$) pour garantir toutes les chances de succès de votre projet. 
 
-## Avant d'accueillir l'étudiant.e
+## 3. Avant d'accueillir l'étudiant.e
 
 **Assurez vous que les données sont disponibles et accessibles à l'étudiant.e**
 
-## Pendant le stage
+## 4. Pendant le stage
 
 Le stage se déroulera sur une période de deux sessions consécutives. Durant la première session de stage, l'étudiant.e suivra un cours de méthodologie de recherche en science des données les vendredis à 13h. Un scrums scientifiques lui sera donné également les vendredis matin avec notre équipe de professionnels et d'autres étudiants pour bénéficier de leurs expériences et partager la sienne. 
 
 L'étudiant.e n'ira en milieu de staque que 26 semaines sur les 32 que composent les deux sessions. les deux premières semaines de la session 1 sont consacrées aux lectures scientifiques préliminaires au projet et à l'intégration de l'étudian.e. à votre organisation. Les dernières semaines seront plus consacrées à la finalisation du rapport de stage et à la présentation finale des résultats. 
 
-Il est possible de [prendre contact avec nous] à tout moment pour discuter de l'avancement du projet et s'assurer de l'enlignement de celui-ci avec les objectifs d'affaires de votre organisation.
+Il est possible de [prendre contact avec nous](mailto:stages@iid.ulaval.ca) à tout moment pour discuter de l'avancement du projet et s'assurer de l'enlignement de celui-ci avec les objectifs d'affaires de votre organisation.
 
 
 
