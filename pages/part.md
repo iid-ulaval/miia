@@ -33,8 +33,6 @@ Le processus peut-être résumé en quelques points :
 | Jusqu’à Date 4 | <ul><li>Soumission au comité scientifique Mitacs </li><li>Soumission au CERUL si nécessaire</li><li>Puis soumission à l’Université pour signature et facturation </li>|
 | Date 5 | Début du stage |
 | | |
-{: .tablelines}
-
 
 <p>
 Avec les dates qui varient selon les sessions de départ en stage : 

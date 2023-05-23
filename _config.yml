@@ -1,5 +1,11 @@
 plugins:
   - jekyll-relative-links
+  - no_intra_emphasis
+  - autolink
+  - tables
+  - strikethrough
+  - superscript
+  - with_to_data
 relative_links:
   enabled: true
   collections: true
