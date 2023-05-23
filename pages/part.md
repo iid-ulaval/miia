@@ -18,33 +18,33 @@
 <p>Le processus peut-être résumé en quelques points :
 <table>
   <tr>
-    <td>Jusqu’à <span class="date">Date 1</span></td>
-    <td>Soumission du projet sur la plateforme du <a href="https://www.sdp.ulaval.ca/employeurs/afficher/stage">Service de Développement Professionnel de l’Université Laval (SDP)</a> et évaluation de la portée et de la faisabilité avec un professionnel de l’IID au besoin. <br> Spécifier : <ul><li>Offre de stage pour le 2e cycle en Intelligence Artificielle</li><li>Dates de l'offre jusqu'à <span class="date">Date 1</span></li></ul>Préciser dans le contenu de l'offre : <ol><li>Le contexte et la problématique du projet</li><li>Les objectifs précis</li><li>Les données qui seront utilisées</li></ol>
+    <td>Jusqu’à <span class="date1">Date 1</span></td>
+    <td>Soumission du projet sur la plateforme du <a href="https://www.sdp.ulaval.ca/employeurs/afficher/stage">Service de Développement Professionnel de l’Université Laval (SDP)</a> et évaluation de la portée et de la faisabilité avec un professionnel de l’IID au besoin. <br> Spécifier : <ul><li>Offre de stage pour le 2e cycle en Intelligence Artificielle</li><li>Dates de l'offre jusqu'à <span class="date1">Date 1</span></li></ul>Préciser dans le contenu de l'offre : <ol><li>Le contexte et la problématique du projet</li><li>Les objectifs précis</li><li>Les données qui seront utilisées</li></ol>
     </td>
   </tr>
   <tr>
-    <td><span class="date">Date 1</span></td>
+    <td><span class="date1">Date 1</span></td>
     <td>Ouverture des offres aux étudiants et réception des CVs des étudiants prêts à partir en stage</td>
   </tr>
   <tr>
-    <td>Jusqu’à <span class="date">Date 2</span></td>
+    <td>Jusqu’à <span class="date2">Date 2</span></td>
     <td>Entrevues et sélection des préférences et confirmation de celui-ci sur votre page de gestion de stage du SDP</td>
   </tr>
   <tr>
-    <td><span class="date">Date 2</span>+</td>
+    <td><span class="date2">Date 2</span>+</td>
     <td><a href="#le-repêchage">Repêchage</a> des étudiants : <ul><li> Jour 1 : Les étudiant.e.s qui ont été choisi.e.s comme #1 par au moins un partenaire reçoivent la ou les proposition(s) de stage, ils ont 24h pour en accepter une seule (ou les refuser toutes)</li><li> Jour 2 : Si votre offre a été refusée, nous la proposons à votre choix #2 </li><li> Et ce, jusqu’à ce que tout le monde soit apparié (idéalement). </li></ul></td>
   </tr>
   <tr>
-    <td>Jusqu’à <span class="date">Date 3</span></td>
+    <td>Jusqu’à <span class="date3">Date 3</span></td>
     <td>Rédaction de la demande de subvention par l’IID avec votre collaboration</td>
   </tr>
   <tr>
-    <td>Jusqu’à <span class="date">Date 4</span></td>
+    <td>Jusqu’à <span class="date4">Date 4</span></td>
     <td><ul><li>Soumission au comité scientifique Mitacs </li><li>Soumission au CERUL si nécessaire</li><li>Puis soumission à l’Université pour signature et facturation </li></ul>
     </td>
   </tr>
   <tr>
-    <td><span class="date">Date 5</span></td>
+    <td><span class="date5">Date 5</span></td>
     <td>Début du stage</td>
   </tr>
   </table>
@@ -62,31 +62,31 @@ Avec les dates qui varient selon les sessions de départ en stage :
     <th>Été</th>
   </tr>
   <tr>
-    <td><span class="date">Date 1</span></td>
+    <td><span class="date1">Date 1</span></td>
     <td>Dernier lundi d'avril</td>
     <td>Dernier lundi de septembre</td>
     <td>Dernier lundi de janvier</td>
   </tr>
   <tr>
-    <td><span class="date">Date 2</span></td>
+    <td><span class="date2">Date 2</span></td>
     <td>Mi-mai</td>
     <td>Mi-octobre</td>
     <td>Mi-février</td>
   </tr>
   <tr>
-    <td><span class="date">Date 3</span></td>
+    <td><span class="date3">Date 3</span></td>
     <td>Début juin</td>
     <td>Début novembre</td>
     <td>Début mars</td>
   </tr>
   <tr>
-    <td><span class="date">Date 4</span></td>
+    <td><span class="date4">Date 4</span></td>
     <td>Courant de l'été</td>
     <td>Début décembre</td>
     <td>Début avril</td>
   </tr>
   <tr>
-    <td><span class="date">Date 5</span></td>
+    <td><span class="date5">Date 5</span></td>
     <td>3e lundi de septembre</td>
     <td>3e lundi de janvier</td>
     <td>3e lundi de mai</td>
@@ -110,7 +110,13 @@ Même si vous êtes pas certains, il nous fera plaisir de voir avec vous vos bes
 
 ### Combien ca coûte ?
 
+Grâce à une entente particulière avec l'organisme subventionnaire [Mitacs](https://mitacs.ca), nous offrons la possibilité, si vous y êtes admissible, d'avoir accès à un étudiant pour 2 unités de stage Mitacs, soit 15000$. Les organismes suivants sont admissibles : 
+- Entreprises privées
+- OBNL
+- Municipalités
+- Hôpitaux 
 
+Si vous n'y êtes pas admissibles (organismes publics ou para-publics), [prenez contact avec nous] pour qu'on regarde ce que l'on peut faire.
 
 ## 2. Proposer un projet de stage, recruter un.e étudiant.e
 
