@@ -15,9 +15,8 @@
 
 ## TL:DR;
 
-Le processus peut-être résumé en quelques points :
 
-<div><table>
+<p>Le processus peut-être résumé en quelques points :<table>
 <tr><th></th><th></th></tr>
   <tr>
     <td>Jusqu’à Date 1</td>
@@ -47,13 +46,11 @@ Le processus peut-être résumé en quelques points :
   <tr>
     <td>Date 5</td>
     <td>Début du stage</td>
-  </tr>
-</table></div>
+  </tr></table></p>
 
-<br>
-
+<p>
 Avec les dates qui varient selon les sessions de départ en stage : 
-<div><table>
+<table>
   <tr>
     <th>Dates</th>
     <th>Automne</th>
@@ -89,8 +86,8 @@ Avec les dates qui varient selon les sessions de départ en stage :
     <td>3e lundi de septembre</td>
     <td>3e lundi de janvier</td>
     <td>3e lundi de mai</td>
-  </tr>
-</table></div>
+  </tr></table></p>
+
 <br>
 <br>
 <br>
