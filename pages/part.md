@@ -16,6 +16,12 @@
 ## TL:DR;
 
 
+<style>
+    .tablelines table, .tablelines td, .tablelines th {
+  border: 1px solid #ebebeb;
+}
+</style>
+
 Le processus peut-être résumé en quelques points :
 | | |
 | ---- | ----- |
