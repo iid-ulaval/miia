@@ -1,6 +1,6 @@
-# Service de consultation en IA et données
+# Micro-site MIIA
 
-Code source du [site](https://iid-ulaval.github.io/service-communaute/) d'offre de service de consultation en IA (SCIAD).
+Code source du [site](https://iid-ulaval.github.io/miia/) d'information de la Maitrise professionnelle en Informatique - Intelligence Artificielle (MIIA).
 
 ## Development setup
 
