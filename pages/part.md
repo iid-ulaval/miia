@@ -11,7 +11,7 @@
     3. [Avant d'accueillir l'étudiant.e](#3-avant-daccueillir-létudiante)
     4. [Pendant le stage](#4-pendant-le-stage)
 
-
+Pour recevoir un rappel chaque session des dates de soumission n'oubliez pas de vous [inscrire à notre bulletin !](https://mailchi.mp/iid/stagesmiia)
 
 ## TL:DR;
 
@@ -107,6 +107,8 @@ Avec les dates qui varient selon les sessions de départ en stage :
 Vous pouvez [prendre contact avec nous], nous avons une équipe de professionnels qui vous aideront à analyser vos besoins pour produire un projet de stage adéquat tant pour votre organisation que pour les exigences académiques du parcours des étudiant.e.s.
 
 Même si vous n'êtes pas certains, il nous fera plaisir de voir avec vous vos besoins et d'évaluer les possibilités. 
+
+Pour recevoir un rappel chaque session des dates de soumission de projet, il suffit de vous [inscrire à notre bulletin.](https://mailchi.mp/iid/stagesmiia)
 
 ### Combien ca coûte ?
 
