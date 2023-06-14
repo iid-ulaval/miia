@@ -10,6 +10,7 @@
     2. [Proposer un projet, recruter](#2-proposer-un-projet-de-stage-recruter-une-étudiante)
     3. [Avant d'accueillir l'étudiant.e](#3-avant-daccueillir-létudiante)
     4. [Pendant le stage](#4-pendant-le-stage)
+    5. [Après le stage, à qui la PI ?](#5-après-le-stage-à-qui-la-pi)
 
 Pour recevoir un rappel chaque session des dates de soumission n'oubliez pas de vous [inscrire à notre bulletin !](https://mailchi.mp/iid/stagesmiia)
 
@@ -170,6 +171,12 @@ Le stage se déroulera sur une période de deux sessions consécutives. Durant l
 L'étudiant.e n'ira en milieu de stage que 26 semaines sur les 32 que composent les deux sessions. Les deux premières semaines de la session 1 sont consacrées aux lectures scientifiques préliminaires au projet et à l'intégration de l'étudiant.e à votre organisation avant le début du stage (<span class="date5">Date 5</span>). Les dernières semaines seront consacrées à la finalisation du rapport de stage et à la présentation finale des résultats. 
 
 Il est possible de [prendre contact avec nous](mailto:stages@iid.ulaval.ca) à tout moment pour discuter de l'avancement du projet et s'assurer de l'alignement de celui-ci avec les objectifs d'affaires de votre organisation.
+
+## 5. Après le stage, à qui la PI ?
+
+Tous les stages réalisé grâce à la subvention [Mitacs](https://www.mitacs.ca) sont couverts par l'entente existante entre l'Université Laval est Mitacs. Les détails de l'entente (version 2022) est lisible ici : [Conditions et Règles applicables pour les stages accélération](https://www.mitacs.ca/sites/default/files/resources/conditions_et_regles_applicables_mitacs_ul_dec_2022_fr.pdf)
+
+Pour les stages couverts par une entente d'accompagnement de recherche séparée, les termes de partage de la propriété intellectuelle y sont généralement similaires.
 
 
 
