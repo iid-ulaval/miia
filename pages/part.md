@@ -153,11 +153,7 @@ Vous recevrez alors sur votre offre les candidatures d'étudiant.e.s de la MIIA 
 ### Le repêchage
 Le repêchage se base sur un algorithme qui se veut équitable pour les entreprises et les étudiant.e.s, basé sur les choix préférentiels des étudiants et des entreprises. 
 
-<span class="imporant">Il est TRÈS important</span> d'avoir mis des choix avant la date limite ou bien un choix aléatoire vous sera assigné. Si vous ne souhaitez prendre aucun étudiant, refusez les tous.
-
- <!-- - Jour 1 (<span class="date2">Date 2</span>): Les étudiant.e.s qui ont été choisi.e.s comme #1 par au moins un partenaire reçoivent la ou les proposition(s) de stage, ils ont 24h pour en accepter une seule (ou les refuser toutes)
- - Jour 2 : Si votre offre a été refusée, nous la proposons à votre choix #2 
- - Et ce, jusqu’à ce que tout le monde soit apparié (idéalement). -->
+Il est <span class="imporant">TRÈS important</span> d'avoir mis des choix avant la date limite ou bien un choix aléatoire vous sera assigné. Si vous ne souhaitez prendre aucun étudiant, refusez les tous.
 
 ### Je veux proposer le projet à un.e étudiant.e en particulier
 

@@ -40,7 +40,7 @@ Vous aurez alors quelques semaines (généralement 3) pour rencontrer tous les m
 
 Le repêchage se base sur un algorithme qui se veut équitable pour les entreprises et les étudiant.e.s, basé sur les choix préférentiels des étudiants et des entreprises. 
 
-<span class="imporant">Il est TRÈS important</span> d'avoir mis des choix avant la date limite ou bien un choix aléatoire vous sera assigné. Si vous ne souhaitez prendre aucun stage proposé, refusez les tous.
+Il est <span class="imporant">TRÈS important</span> d'avoir mis des choix avant la date limite ou bien un choix aléatoire vous sera assigné. Si vous ne souhaitez prendre aucun stage proposé, refusez les tous.
 
 
 ## 4. Faire son stage
@@ -50,10 +50,6 @@ Votre stage se déroulera sur une période de deux sessions consécutives. Duran
 Vous n'irez en milieu de stage que 26 semaines sur les 32 que composent deux sessions. Les deux premières semaines de la session 1 sont consacrées aux lectures scientifiques préliminaires à votre projet et à votre intégration à votre milieu de stage. Les dernières semaines seront plus consacrées à la finalisation de votre rapport de stage et à la présentation finale de vos résultats. Plus de détails sur les évaluations vous seront expliqués lors de la première séance du premier cours de la session 1 (qui arrive généralement le 1er vendredi de la session). Les rencontres hebdomadaire avec les professionnels experts commencent généralement la semaine 4.
 
 <table>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
   <tr>
     <td>Semaines <br>1 et 2</td>
     <td>Intégration au milieu de stage et lectures préparatoires.<br>
@@ -70,10 +66,6 @@ Vous n'irez en milieu de stage que 26 semaines sur les 32 que composent deux ses
   <tr>
     <td>Semaines <br>31 et 32</td>
     <td>Évaluations : Rapport et présentation des résultats</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
   </tr>
   </table>
 
