@@ -28,6 +28,7 @@ Profitez d’un tour d’horizon complet (en moins de quinze minutes!) des diver
       allowfullscreen="true">
   </iframe>
 </div>
+Note : Il y a des stages en automne aussi maintenant !
 
 <br>
 

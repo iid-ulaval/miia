@@ -2,6 +2,10 @@
 <br>
 <br>
 
+<h4 style="text-align:center;">
+<a class="button" href="https://mailchi.mp/iid/stagesmiia" target="_blank"><div style="font-size: 33px;">📧</div> <div>Avisez moi de la prochaine cohorte !</div></a>
+</h4>
+
 # Les différentes étapes du processus 
 
 - [TL:DR;](#tldr)
@@ -20,12 +24,13 @@ Pour recevoir un rappel chaque session des dates de soumission n'oubliez pas de 
 <table>
   <tr>
     <td>Jusqu’à <span class="date1">Date 1</span></td>
-    <td>Soumission du projet sur la plateforme du <a href="https://www.sdp.ulaval.ca/employeurs/afficher/stage">Service de Développement Professionnel de l’Université Laval (SDP)</a> et évaluation de la portée et de la faisabilité avec un professionnel de l’IID au besoin. <br> Spécifier : <ul><li>Offre de stage pour le 2e cycle en Intelligence Artificielle</li><li>Dates de l'offre jusqu'à <span class="date1">Date 1</span></li></ul>Préciser dans le contenu de l'offre : <ol><li>Le contexte et la problématique du projet</li><li>Les objectifs précis</li><li>Les données qui seront utilisées</li></ol>
+    <td>Soumission du projet sur la plateforme du <a href="https://www.sdp.ulaval.ca/employeurs/afficher/stage">Service de Développement Professionnel de l’Université Laval (SDP)</a> et évaluation de la portée et de la faisabilité avec un professionnel de l’IID au besoin. <br> <span class="important">Spécifier</span> : <ul><li>Offre de stage pour le 2e cycle en Intelligence Artificielle</li><li>Dates de l'offre jusqu'à <span class="date1">Date 1</span></li></ul>Préciser dans le contenu de l'offre : <ol><li>Le contexte et la problématique du projet</li><li>Les objectifs précis</li><li>Les données qui seront utilisées</li></ol>
+    Prendre note que le SDP n'offre pas encore de stage sur 2 sessions. Ce n'est pas grave.
     </td>
   </tr>
   <tr>
     <td><span class="date1">Date 1</span></td>
-    <td>Ouverture des offres aux étudiants et réception des CVs des étudiants prêts à partir en stage</td>
+    <td>Ouverture des offres aux étudiants et réception des CVs des étudiants prêts à partir en stage sur la plateforme du SDP</td>
   </tr>
   <tr>
     <td>Jusqu’à <span class="date2">Date 2</span></td>
@@ -33,7 +38,7 @@ Pour recevoir un rappel chaque session des dates de soumission n'oubliez pas de 
   </tr>
   <tr>
     <td><span class="date2">Date 2</span>+</td>
-    <td><a href="#le-repêchage">Repêchage</a> des étudiants : <ul><li> Jour 1 : Les étudiant.e.s qui ont été choisi.e.s comme #1 par au moins un partenaire reçoivent la ou les proposition(s) de stage, ils ont 24h pour en accepter une seule (ou les refuser toutes)</li><li> Jour 2 : Si votre offre a été refusée, nous la proposons à votre choix #2 </li><li> Et ce, jusqu’à ce que tout le monde soit apparié (idéalement). </li></ul></td>
+    <td><a href="#le-repêchage">Repêchage</a> algorithmique des étudiants selon les préférences exprimée et création du stage sur la plateforme du SDP.</td>
   </tr>
   <tr>
     <td>Jusqu’à <span class="date3">Date 3</span></td>
@@ -42,6 +47,7 @@ Pour recevoir un rappel chaque session des dates de soumission n'oubliez pas de 
   <tr>
     <td>Jusqu’à <span class="date4">Date 4</span></td>
     <td><ul><li>Soumission au comité scientifique Mitacs </li><li>Soumission au CERUL si nécessaire</li><li>Puis, soumission à l’Université pour signature et facturation </li></ul>
+    A cette étape-ci, l'approbation sera mise à jour sur la plateforme du SDP.
     </td>
   </tr>
   <tr>
@@ -138,15 +144,20 @@ Précisez dans les conditions que ce sera une bourse Mitacs (20 000$).
 
 Et si vous avez plusieurs projets, déposez une offre par projet. 
 
+La session de stage est importante. Les dates exactes de stage et d'affichage ne le sont pas. Le SDP n'offre pas encore la possibilité d'afficher un stage sur deux sessions consécutives.  
+
 Nous validerons le projet en partenariat avec le SDP et nous vous contacterons au besoin pour des précisions.
 
 Vous recevrez alors sur votre offre les candidatures d'étudiant.e.s de la MIIA intéressé.e.s par celle-ci. Vous aurez alors quelques semaines (généralement 3) pour rencontrer tous les étudiant.e.s qui sont intéressé.e.s par votre projet. Une fois les entrevues effectuées et votre ordre de préférence établi, nous rentrerons en mode [repêchage !](#le-repêchage)
 
 ### Le repêchage
-Le repêchage se base sur un algorithme qui se veut équitable pour les entreprises et les étudiant.e.s : 
- - Jour 1 (<span class="date2">Date 2</span>): Les étudiant.e.s qui ont été choisi.e.s comme #1 par au moins un partenaire reçoivent la ou les proposition(s) de stage, ils ont 24h pour en accepter une seule (ou les refuser toutes)
+Le repêchage se base sur un algorithme qui se veut équitable pour les entreprises et les étudiant.e.s, basé sur les choix préférentiels des étudiants et des entreprises. 
+
+<span class="imporant">Il est TRÈS important</span> d'avoir mis des choix avant la date limite ou bien un choix aléatoire vous sera assigné. Si vous ne souhaitez prendre aucun étudiant, refusez les tous.
+
+ <!-- - Jour 1 (<span class="date2">Date 2</span>): Les étudiant.e.s qui ont été choisi.e.s comme #1 par au moins un partenaire reçoivent la ou les proposition(s) de stage, ils ont 24h pour en accepter une seule (ou les refuser toutes)
  - Jour 2 : Si votre offre a été refusée, nous la proposons à votre choix #2 
- - Et ce, jusqu’à ce que tout le monde soit apparié (idéalement).
+ - Et ce, jusqu’à ce que tout le monde soit apparié (idéalement). -->
 
 ### Je veux proposer le projet à un.e étudiant.e en particulier
 
@@ -158,7 +169,7 @@ C'est possible ! Il faut seulement que votre employé.e et vous lisiez l'informa
 
 Prenez en compte également que nous privilégions les financements Mitacs pour les subventions de stage, ce mode de financement permet de payer également l'accompagnement de votre stage par une équipe de professionnels hautement qualifiés en IA qui ont déjà accompagné plus de 100 stages.
 
-Si jamais vous envisagiez un autre mode de financement, l'accompagnement scientifique de votre employé serait alors à payer séparément (~13000$) pour garantir toutes les chances de succès de votre projet. 
+Si jamais vous envisagiez un autre mode de financement, l'accompagnement scientifique de votre employé serait alors à payer séparément (~13000$) pour garantir toutes les chances de succès de votre projet et la réussite des exigences académiques du stage. 
 
 ## 3. Avant d'accueillir l'étudiant.e
 

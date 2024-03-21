@@ -38,19 +38,44 @@ Vous aurez alors quelques semaines (généralement 3) pour rencontrer tous les m
 
 ### Le repêchage
 
-- Jour 1 : Vous recevez toutes les offres de stages pour lesquelles vous avez été le choix #1 d'une entreprise partenaire. Vous avez 24h pour en accepter une, passé quoi vous serez supposé les avoir toutes refusées.
-- Jour 2 : Si vous n'avez pas accepté d'offre encore, vous recevez toutes les offres de stages pour lesquelles vous avez été le choix #2 d'une entreprise partenaire. Vous avez 24h pour en accepter une, passé quoi vous serez supposé les avoir toutes refusées.
-- Et ce, jusqu’à ce que tout le monde soit apparié (idéalement).
+Le repêchage se base sur un algorithme qui se veut équitable pour les entreprises et les étudiant.e.s, basé sur les choix préférentiels des étudiants et des entreprises. 
 
-Note : Il se peut que vous soyez le choix #1 d'une entreprise qui aura mis ses préférences plus tardivement dans le processus. Ne vous fiez pas (complètement) à la date de réception pour tenter de deviner votre rang. 
+<span class="imporant">Il est TRÈS important</span> d'avoir mis des choix avant la date limite ou bien un choix aléatoire vous sera assigné. Si vous ne souhaitez prendre aucun stage proposé, refusez les tous.
 
 
 ## 4. Faire son stage
 
 Votre stage se déroulera sur une période de deux sessions consécutives. Durant la première session de stage, vous suivrez un cours de méthodologie de recherche en science des données les vendredis à 13h. Vous aurez également des scrums scientifiques les vendredis matin avec notre équipe de professionnels et d'autres étudiants pour bénéficier de leurs expériences et partager la vôtre. 
 
-Vous n'irez en milieu de stage que 26 semaines sur les 32 que composent deux sessions. Les deux premières semaines de la session 1 sont consacrées aux lectures scientifiques préliminaires à votre projet et à votre intégration à votre milieu de stage. Les dernières semaines seront plus consacrées à la finalisation de votre rapport de stage et à la présentation finale de vos résultats. Plus de détails sur les évaluations vous seront expliqués lors de la première séance du premier cours de la session 1 (qui arrive généralement le 1er vendredi de la session). 
+Vous n'irez en milieu de stage que 26 semaines sur les 32 que composent deux sessions. Les deux premières semaines de la session 1 sont consacrées aux lectures scientifiques préliminaires à votre projet et à votre intégration à votre milieu de stage. Les dernières semaines seront plus consacrées à la finalisation de votre rapport de stage et à la présentation finale de vos résultats. Plus de détails sur les évaluations vous seront expliqués lors de la première séance du premier cours de la session 1 (qui arrive généralement le 1er vendredi de la session). Les rencontres hebdomadaire avec les professionnels experts commencent généralement la semaine 4.
 
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Semaines <br>1 et 2</td>
+    <td>Intégration au milieu de stage et lectures préparatoires.<br>
+    Premier cours IFT-6010 le premier vendredi de la session</td>
+  </tr>
+  <tr>
+    <td>Semaine 3</td>
+    <td>Présentations des projets aux professionnels</td>
+  </tr>
+  <tr>
+    <td>Semaines <br>4 à 30</td>
+    <td>Stage 4j/sem<br>Scrum weekly le vendredim AM. Cours IFT-6010 et IFT-6501 le vendredi PM (13h)</td>
+  </tr>
+  <tr>
+    <td>Semaines <br>31 et 32</td>
+    <td>Évaluations : Rapport et présentation des résultats</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
 
 
 [Profil Professionnel]: https://monportail.ulaval.ca/emploisstages/profilprofessionnel/
