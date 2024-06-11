@@ -24,7 +24,7 @@ Pour recevoir un rappel chaque session des dates de soumission n'oubliez pas de 
 <table>
   <tr>
     <td>Jusqu’à <span class="date1">Date 1</span></td>
-    <td>Soumission du projet sur la plateforme du <a href="https://www.sdp.ulaval.ca/employeurs/afficher/stage">Service de Développement Professionnel de l’Université Laval (SDP)</a> et évaluation de la portée et de la faisabilité avec un professionnel de l’IID au besoin. <br> <span class="important">Spécifier</span> : <ul><li>Offre de stage pour le 2e cycle en Intelligence Artificielle</li><li>Dates de l'offre jusqu'à <span class="date1">Date 1</span></li></ul>Préciser dans le contenu de l'offre : <ol><li>Le contexte et la problématique du projet</li><li>Les objectifs précis</li><li>Les données qui seront utilisées</li></ol>
+    <td>Soumission du projet sur la plateforme du <a href="https://www.sdp.ulaval.ca/emplois-stages/employeurs/afficher/stage?ope=4">Service de Développement Professionnel de l’Université Laval (SDP)</a> et évaluation de la portée et de la faisabilité avec un professionnel de l’IID au besoin. <br> <span class="important">Spécifier</span> : <ul><li>Offre de stage pour le 2e cycle en Intelligence Artificielle</li><li>Dates de l'offre jusqu'à <span class="date1">Date 1</span></li></ul>Préciser dans le contenu de l'offre : <ol><li>Le contexte et la problématique du projet</li><li>Les objectifs précis</li><li>Les données qui seront utilisées</li></ol>
     Prendre note que le SDP n'offre pas encore de stage sur 2 sessions. Ce n'est pas grave.
     </td>
   </tr>
@@ -129,7 +129,7 @@ Si vous n'y êtes pas admissibles (organismes publics ou para-publics), [prenez 
 
 ## 2. Proposer un projet de stage, recruter un.e étudiant.e
 
-Vous pouvez proposer directement un projet sur la plateforme du [Service de Développement Professionnel de l’Université Laval (SDP)](https://www.sdp.ulaval.ca/employeurs/afficher/stage). 
+Vous pouvez proposer directement un projet sur la plateforme du [Service de Développement Professionnel de l’Université Laval (SDP)](https://www.sdp.ulaval.ca/emplois-stages/employeurs/afficher/stage?ope=4). 
 
 Pensez à bien spécifier : 
 - Offre de stage pour le 2e cycle en Intelligence Artificielle
