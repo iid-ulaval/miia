@@ -16,7 +16,7 @@ Chaque session, un courriel est envoyé sur la liste institutionnelle LEP-M-IFT-
     * Mentionner que vous êtes en train de réaliser une maîtrise professionnelle en informatique - IA. 
     * Préciser les différents types de problèmes d’apprentissage automatique et/ou les domaines d’application dans le champ “intérêts” pour assurer les partenaires de l’adéquation de vos intérêts avec leur(s) projets(s). 
     * Vous limitez aux informations les plus pertinentes pour les stages que vous allez réaliser (e.g. Word n’est pas une technologie pertinente).
-2. Un [formulaire de consentement Mitacs](https://form.jotform.com/camillebesse/mitacs-stagiaire) (mot passe : 'miia') permettant à Mitacs de vous recenser dans ses statistiques, à publiciser votre nom sur leur site et vous engageant à accomplir le projet futur;
+2. Un [formulaire de consentement Mitacs](https://form.jotform.com/Besse_Camille/mitacs) (mot passe : 'miia') permettant à Mitacs de vous recenser dans ses statistiques, à publiciser votre nom sur leur site et vous engageant à accomplir le projet futur;
 3. Une copie non  officielle de votre relevé de notes.
 
 ## 2. Trouver/proposer un stage
